@@ -1,155 +1,1110 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1749876558513 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1749877955031 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1749876561581 tunnel running, 1 tunnels registered
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749877958099 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1749876564645 tunnel running, 1 tunnels registered
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749877961155 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1749876567704 tunnel running, 1 tunnels registered
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749877964220 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1749876570764 tunnel running, 1 tunnels registered
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749877967282 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1749876573848 tunnel running, 1 tunnels registered
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749877970387 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1749876576912 tunnel running, 1 tunnels registered
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749877973457 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1749876579976 tunnel running, 1 tunnels registered
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749877976514 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1749876583036 tunnel running, 1 tunnels registered
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749877979580 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1749876586094 tunnel running, 1 tunnels registered
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749877982644 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1749876589151 tunnel running, 1 tunnels registered
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749877985709 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1749876592208 tunnel running, 1 tunnels registered
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749877988772 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1749876595270 tunnel running, 1 tunnels registered
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749877991848 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1749876598333 tunnel running, 1 tunnels registered
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749877994905 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1749876601412 tunnel running, 1 tunnels registered
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749877997966 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1749876604481 tunnel running, 1 tunnels registered
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878001027 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1749876607544 tunnel running, 1 tunnels registered
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878004093 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1749876610611 tunnel running, 1 tunnels registered
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878007187 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1749876613675 tunnel running, 1 tunnels registered
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878010282 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1749876616738 tunnel running, 1 tunnels registered
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878013365 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1749876619811 tunnel running, 1 tunnels registered
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878016452 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1749876622876 tunnel running, 1 tunnels registered
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878019527 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1749876625937 tunnel running, 1 tunnels registered
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878022601 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1749876629021 tunnel running, 1 tunnels registered
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878025669 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1749876632111 tunnel running, 1 tunnels registered
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878028737 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1749876635170 tunnel running, 1 tunnels registered
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878031800 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1749876638227 tunnel running, 1 tunnels registered
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878034862 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1749876641283 tunnel running, 1 tunnels registered
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878037940 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1749876644341 tunnel running, 1 tunnels registered
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878041007 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1749876647397 tunnel running, 1 tunnels registered
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878044083 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1749876650455 tunnel running, 1 tunnels registered
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878047145 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878050207 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878053276 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878056333 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878059406 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878062487 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878065548 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878068616 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878071708 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878074779 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878077839 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878080934 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878084004 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878087060 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878090132 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878093193 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878096251 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878099320 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878102390 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878105461 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878108522 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878111600 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878114660 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878117719 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878120778 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878123846 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878126907 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878129979 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878133071 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878136132 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878139190 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878142250 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878145317 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878148382 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878151456 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878154523 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878157585 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878160648 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878163717 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878166775 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878169836 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878172913 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878175972 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878179035 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878182102 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878185163 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878188249 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878191313 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878194381 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878197444 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878200507 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878203566 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878206627 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878209685 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878212744 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878215805 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878218881 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878221946 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878225010 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878228074 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878231141 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878234199 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878237263 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878240323 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878243385 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878246447 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878249506 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878252567 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878255642 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878258705 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878261772 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878264836 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878267891 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878270953 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878274014 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878277080 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878280138 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878283197 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878286273 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878289332 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878292397 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878295453 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878298513 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878301595 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878304658 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878307719 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878310789 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878313856 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878316921 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878319983 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878323040 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878326101 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878329170 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878332230 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878335297 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878338367 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878341442 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878344503 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878347575 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878350640 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878353702 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878356759 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878359830 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878362901 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878365992 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878369069 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878372129 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878375193 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878378263 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878381346 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878384402 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878387470 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878390530 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878393598 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878396663 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878399717 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878402800 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878405870 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878408942 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878412004 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878415061 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878418113 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878421165 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878424229 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878427289 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878430343 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878433399 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878436452 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878439506 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878442562 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878445625 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878448680 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878451733 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878454790 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878457846 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878460900 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878463956 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878467013 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878470072 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878473125 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878476183 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878479241 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878482302 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878485358 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878488418 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878491472 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878494528 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878497586 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878500641 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878503696 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878506750 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878509806 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878512859 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878515914 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1749878518967 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+possible-open.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+canadian-tt.gl.at.ply.gg:2097 => 127.0.0.1:2097 (proto: Udp, port count: 1)
