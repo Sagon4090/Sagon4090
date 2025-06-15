@@ -2612,3 +2612,51 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [15Jun2025 04:27:13.016] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=129, z=-5} BlockPos{x=16, y=128, z=-5}
 [15Jun2025 04:27:13.144] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=129, z=-5} BlockPos{x=16, y=129, z=-5}
 [15Jun2025 04:27:14.462] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=129, z=-5} BlockPos{x=16, y=128, z=-5}
+[15Jun2025 04:28:10.021] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lobo3224[/127.9.157.44:45049] logged in with entity id 953 at (4.861233970866874, 147.0, -22.775443388189462)
+[15Jun2025 04:28:10.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 joined the game
+[15Jun2025 04:28:10.125] [Server thread/INFO] [Jade/]: Syncing config to lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc)
+[15Jun2025 04:28:13.653] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lobo3224 (18)
+[15Jun2025 04:28:13.654] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lobo3224
+[15Jun2025 04:28:21.560] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=132, z=-12} BlockPos{x=15, y=132, z=-11}
+[15Jun2025 04:28:22.310] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=132, z=-12} BlockPos{x=15, y=132, z=-11}
+[15Jun2025 04:28:23.008] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=132, z=-12} BlockPos{x=15, y=132, z=-11}
+[15Jun2025 04:28:28.559] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=132, z=-13} BlockPos{x=16, y=132, z=-13}
+[15Jun2025 04:28:40.456] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[15Jun2025 04:28:41.424] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[15Jun2025 04:28:41.426] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc) successfully connected to voice chat
+[15Jun2025 04:28:41.516] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=127, z=0} BlockPos{x=16, y=126, z=0}
+[15Jun2025 04:29:05.108] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=126, z=0} BlockPos{x=16, y=134, z=-14}
+[15Jun2025 04:29:05.808] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=126, z=0} BlockPos{x=16, y=134, z=-14}
+[15Jun2025 04:29:06.460] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=126, z=0} BlockPos{x=16, y=134, z=-14}
+[15Jun2025 04:29:29.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set own game mode to Survival Mode]
+[15Jun2025 04:29:38.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 has made the advancement [Monster Hunter]
+[15Jun2025 04:29:55.362] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10, y=134, z=-26} BlockPos{x=8, y=124, z=-14}
+[15Jun2025 04:32:06.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> :blobcatmorning:
+[15Jun2025 04:32:07.439] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Jun2025 04:32:07.439] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 68
+}
+[15Jun2025 04:32:07.440] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[15Jun2025 04:32:07.440] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "IA_`OF6*dE4640Hm"
+]
+[15Jun2025 04:32:13.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YOUNGDINO07> uff
+[15Jun2025 04:32:26.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> :blobcatevil:
+[15Jun2025 04:32:38.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YOUNGDINO07> :catjam:
+[15Jun2025 04:33:12.055] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=11, y=125, z=-20} BlockPos{x=9, y=126, z=-15}
+[15Jun2025 04:33:12.259] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=11, y=125, z=-20} BlockPos{x=8, y=126, z=-15}
+[15Jun2025 04:33:12.409] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=11, y=125, z=-20} BlockPos{x=9, y=126, z=-15}
+[15Jun2025 04:33:16.558] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=11, y=125, z=-20} BlockPos{x=8, y=124, z=-15}
+[15Jun2025 04:33:17.408] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=11, y=125, z=-20} BlockPos{x=9, y=125, z=-14}
+[15Jun2025 04:33:18.256] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=11, y=125, z=-20} BlockPos{x=9, y=125, z=-14}
+[15Jun2025 04:33:19.058] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=11, y=125, z=-20} BlockPos{x=9, y=125, z=-14}
+[15Jun2025 04:33:19.758] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=11, y=125, z=-20} BlockPos{x=9, y=125, z=-14}
+[15Jun2025 04:33:20.458] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=11, y=125, z=-20} BlockPos{x=9, y=125, z=-14}
+[15Jun2025 04:33:21.155] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=11, y=125, z=-20} BlockPos{x=9, y=125, z=-14}
+[15Jun2025 04:33:21.858] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=11, y=125, z=-20} BlockPos{x=9, y=125, z=-14}
+[15Jun2025 04:33:22.556] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=11, y=125, z=-20} BlockPos{x=9, y=125, z=-14}
+[15Jun2025 04:33:23.207] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=11, y=125, z=-20} BlockPos{x=9, y=125, z=-14}
+[15Jun2025 04:33:41.410] [Worker-Main-44/INFO] [ModernFix/]: Instantiating Mojang DFU
+[15Jun2025 04:35:14.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YOUNGDINO07> llamada
