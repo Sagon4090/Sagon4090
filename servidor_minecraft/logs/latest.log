@@ -3052,3 +3052,65 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [15Jun2025 22:29:21.786] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/318, l='ServerLevel[world]', x=-2662.45, y=64.00, z=-257.65] died, message: 'Farmer was slain by Equestrian'
 [15Jun2025 22:29:30.534] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/239, l='ServerLevel[world]', x=-2650.83, y=62.94, z=-281.13] died, message: 'Nitwit was slain by Equestrian'
 [15Jun2025 22:29:58.485] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Oceanographer'/346, l='ServerLevel[world]', x=-2641.71, y=63.00, z=-275.42] died, message: 'Oceanographer was slain by Zombie Villager'
+[15Jun2025 22:30:15.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Stay dead]
+[15Jun2025 22:30:23.785] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Florist'/248, l='ServerLevel[world]', x=-2632.23, y=63.00, z=-319.98] died, message: 'Florist was slain by Zombie Villager'
+[15Jun2025 22:30:29.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was slain by Ghoul
+[15Jun2025 22:30:29.484] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Florist'/360, l='ServerLevel[world]', x=-2629.91, y=66.00, z=-328.66] died, message: 'Florist was slain by Zombie Villager'
+[15Jun2025 22:30:30.709] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jun2025 22:30:30.709] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[15Jun2025 22:30:45.786] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Florist'/267, l='ServerLevel[world]', x=-2699.38, y=64.00, z=-291.52] died, message: 'Florist was slain by Equestrian'
+[15Jun2025 22:32:05.912] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Jun2025 22:32:05.913] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 45
+}
+[15Jun2025 22:32:05.913] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[15Jun2025 22:32:05.913] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "D5([egw0~464\\4WdV"
+]
+[15Jun2025 22:33:13.184] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/252, l='ServerLevel[world]', x=-2649.50, y=67.00, z=-339.02] died, message: 'Beekeeper was slain by Sprinter'
+[15Jun2025 22:33:34.936] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Florist'/241, l='ServerLevel[world]', x=-2634.75, y=68.00, z=-339.04] died, message: 'Florist was slain by Zombie Villager'
+[15Jun2025 22:35:13.729] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Jun2025 22:35:13.730] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 118
+}
+[15Jun2025 22:35:13.730] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[15Jun2025 22:35:13.730] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "fA(]_7;NfO'q)4336 \\:oU\""
+]
+[15Jun2025 22:38:07.965] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Jun2025 22:38:07.966] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 52
+}
+[15Jun2025 22:38:07.966] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[15Jun2025 22:38:07.966] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "-nP#kpX&bqR0T528*p*"
+]
+[15Jun2025 22:39:05.417] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Jun2025 22:39:05.417] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": -1099969011
+}
+[15Jun2025 22:39:05.417] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 44 extra bytes: 
+[15Jun2025 22:39:05.417] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "s&;2F>^M464mAm.M"
+]
+[15Jun2025 22:39:30.624] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Jun2025 22:39:30.624] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 238387791
+}
+[15Jun2025 22:39:30.624] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 45 extra bytes: 
+[15Jun2025 22:39:30.625] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "%y/'S1Kts336r=Am"
+]
+[15Jun2025 22:40:01.488] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 lost connection: Disconnected
+[15Jun2025 22:40:01.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 left the game
+[15Jun2025 22:40:01.489] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lobo3224
