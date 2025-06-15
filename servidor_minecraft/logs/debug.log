@@ -11564,3 +11564,432 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [
   "9S&-^W}.n:464wUP9KXM"
 ]
+[15Jun2025 05:28:13.714] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of Santix15: {disabled=false, disconnected=false, uuid=1f8cbd0f-e34f-3631-ad78-ab523f2938ae, name=Santix15, group=d59dc603-fd8f-43b1-9662-cb2ab75dbcd2}
+[15Jun2025 05:28:21.488] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 05:28:21.504] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 05:29:28.189] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of lobo3224: {disabled=false, disconnected=false, uuid=b7e5eca9-5a00-3da7-ac51-8f51ef42decc, name=lobo3224, group=d59dc603-fd8f-43b1-9662-cb2ab75dbcd2}
+[15Jun2025 05:30:04.454] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/12585, l='ServerLevel[world]', x=-1327.49, y=72.00, z=-204.60] died, message: 'Unemployed was slain by Slugger'
+[15Jun2025 05:30:12.814] [Worker-Main-20/DEBUG] [ModernFix/]: Structure graveyard:haunted_house/start_pool/haunted_house_01 is being run through DFU (hash b2a0a03ff0b8dc541f6487f5696fd224a5582ae0dcd9b947e26de2316e2b771c), this will cause launch time delays
+[15Jun2025 05:30:48.666] [Worker-Main-12/DEBUG] [ModernFix/]: Structure graveyard:small_desert_grave/small_desert_grave_01 is being run through DFU (hash d938264cbdbe6c3fbc712b9138dad69981ed85b1cb37cdd3c3ddbac6d821b63b), this will cause launch time delays
+[15Jun2025 05:30:51.321] [Worker-Main-44/DEBUG] [ModernFix/]: Structure graveyard:small_grave/small_grave_15 is being run through DFU (hash 65a51d4ed20945368a3d8a173abeb02a74526e48372e8135f5e9c1a5a8d1471b), this will cause launch time delays
+[15Jun2025 05:30:51.570] [Worker-Main-44/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/18915, l='ServerLevel[world]', x=-1485.50, y=49.00, z=-555.50] as it would cause deadlock
+[15Jun2025 05:31:27.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> XD
+[15Jun2025 05:31:31.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> jajajaja
+[15Jun2025 05:31:46.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> :eggplant::peach::hot_face:
+[15Jun2025 05:31:56.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> :eggplant::peach::hot_face:
+[15Jun2025 05:31:56.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> :eggplant::peach::hot_face:
+[15Jun2025 05:31:57.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> :eggplant::peach::hot_face:
+[15Jun2025 05:31:57.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> :eggplant::peach::hot_face:
+[15Jun2025 05:31:58.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> :eggplant::peach::hot_face:
+[15Jun2025 05:31:58.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> :eggplant::peach::hot_face:
+[15Jun2025 05:32:11.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Crops of the Wild]
+[15Jun2025 05:32:29.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YOUNGDINO07> :flag-ar::potable_water::no_entry_sign:
+[15Jun2025 05:32:39.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> RTX
+[15Jun2025 05:32:44.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> :blobcatban:
+[15Jun2025 05:32:56.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YOUNGDINO07> :no_mobile_phones:
+[15Jun2025 05:32:59.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> what is?
+[15Jun2025 05:33:21.493] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 05:33:21.508] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 05:33:22.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> lobooooo
+[15Jun2025 05:33:25.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> que
+[15Jun2025 05:33:32.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> :eggplant::peach::hot_face:
+[15Jun2025 05:33:33.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YOUNGDINO07> us:us:??
+[15Jun2025 05:33:46.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> :eggplant::peach::hot_face:
+[15Jun2025 05:33:51.306] [Worker-Main-20/DEBUG] [ModernFix/]: Structure graveyard:lich_prison/lich_prison is being run through DFU (hash 9d8451d5d20c8ebbc939e510a5ca5ae150dba0ca7824d028500198055185573c), this will cause launch time delays
+[15Jun2025 05:34:12.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> se escucha doble el gamepley de Lobo
+[15Jun2025 05:34:19.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> otra aldea
+[15Jun2025 05:34:22.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> epic
+[15Jun2025 05:34:38.006] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/12507, l='ServerLevel[world]', x=-1361.70, y=80.00, z=-226.30] died, message: 'Unemployed was slain by entity.pigzilla.biting_pig'
+[15Jun2025 05:34:52.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> PC Gamer o PS5
+[15Jun2025 05:34:54.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> ??
+[15Jun2025 05:34:56.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> PC
+[15Jun2025 05:34:58.996] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Jun2025 05:34:58.997] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 34
+}
+[15Jun2025 05:34:58.997] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[15Jun2025 05:34:58.997] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "vd%(2(b`<464.a%g.4.(="
+]
+[15Jun2025 05:35:00.005] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/12508, l='ServerLevel[world]', x=-1362.34, y=81.00, z=-226.67] died, message: 'Unemployed was slain by entity.pigzilla.biting_pig'
+[15Jun2025 05:35:00.629] [Worker-Main-13/DEBUG] [ModernFix/]: Structure graveyard:small_grave/crashed_carriage is being run through DFU (hash cb4c7576283492f43f08b1c9542f9e4c80143b74ac3018d6cf122cbc71b28240), this will cause launch time delays
+[15Jun2025 05:35:01.043] [Worker-Main-20/DEBUG] [ModernFix/]: Structure graveyard:small_grave/small_grave_14 is being run through DFU (hash 58a4daf5012dfddd6e5e85ab6d10ab88c034ee55661502a4e92bda8c67a48a49), this will cause launch time delays
+[15Jun2025 05:35:05.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YOUNGDINO07> PC
+[15Jun2025 05:35:07.225] [Worker-Main-44/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_windmill/illager_windmill_part_0 is being run through DFU (hash ed8131990a308c38696bda81118b71a38fca0d13f70cc445daf62e0c4b16c211), this will cause launch time delays
+[15Jun2025 05:35:07.288] [Worker-Main-44/DEBUG] [ModernFix/]: Structure dungeons_arise:ceryneian_hind/ceryneian_hind_part_1 is being run through DFU (hash 8d1e717f7f690c4ecf038323a31ea2af8a2b26e4aa1514c6368f1507f1d22106), this will cause launch time delays
+[15Jun2025 05:35:07.300] [Worker-Main-44/DEBUG] [ModernFix/]: Structure dungeons_arise:coliseum/coliseum_part_2 is being run through DFU (hash f3d5e864513064cb00980606061c16d685b14e604b542bbd094be281a9ad5b13), this will cause launch time delays
+[15Jun2025 05:35:07.322] [Worker-Main-44/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_0 is being run through DFU (hash 8fa188369b14e9fd33fc26d16e7a5b3589222ecaf1739e731218c7fc9bdc42be), this will cause launch time delays
+[15Jun2025 05:35:07.462] [Worker-Main-44/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_8 is being run through DFU (hash 9636bf03ae732a21e46bd4a89d4b95d99d10dc64bf986dcf3ffa8f1f166677e0), this will cause launch time delays
+[15Jun2025 05:35:07.464] [Worker-Main-44/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_16 is being run through DFU (hash 051c697fdcb6d9ba60b59c805b446f52844feb03e1935e4b82d3f7899cdde82d), this will cause launch time delays
+[15Jun2025 05:35:07.465] [Worker-Main-44/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_7 is being run through DFU (hash 8f4912ed9140638ec98668e82f630991021b62796cf571b7067262b909eddf63), this will cause launch time delays
+[15Jun2025 05:35:07.466] [Worker-Main-44/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_stairs_2 is being run through DFU (hash 7591243f15878ba055b9aaaddbaf2db31b09e0cbe57d2506d8bfbdaf9d2e9253), this will cause launch time delays
+[15Jun2025 05:35:07.475] [Worker-Main-44/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_2 is being run through DFU (hash 8dbe0413d814a4d247fd15af92565d45853024ca2d41717bc692fd4f08c59055), this will cause launch time delays
+[15Jun2025 05:35:07.475] [Worker-Main-44/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_4 is being run through DFU (hash ce3c2f5d34fcd2842dbf37368cd28fc0a503239c115ac017fa6745d58ec3cebf), this will cause launch time delays
+[15Jun2025 05:35:07.476] [Worker-Main-44/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_11 is being run through DFU (hash 80176ec32753a450cd929c8c05d3437141c92c91f03ccef82a444d9cf2c9fef1), this will cause launch time delays
+[15Jun2025 05:35:07.477] [Worker-Main-44/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_5 is being run through DFU (hash ceb126469d074bbc11bc1d0f5089656c663fbd36bccce10b5545f9b83440c87d), this will cause launch time delays
+[15Jun2025 05:35:07.478] [Worker-Main-44/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_15 is being run through DFU (hash b1f752a8808f104d3927116e3c240df7a004d6bb368c42339ce119af7229e7be), this will cause launch time delays
+[15Jun2025 05:35:07.479] [Worker-Main-44/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_0 is being run through DFU (hash 4a213e4c41bb4215060487ab2e2a91fa14e23292b782f3dfa0f2ae47b06db518), this will cause launch time delays
+[15Jun2025 05:35:07.480] [Worker-Main-44/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_10 is being run through DFU (hash 66b860e9d65a728ec77001669103b8a19b1eb73dd310eb7b1c1f46ec79412d28), this will cause launch time delays
+[15Jun2025 05:35:07.481] [Worker-Main-44/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_12 is being run through DFU (hash 716f5e58e6bd639ee848aa154abbc3f0876c62e8bcd76afd78584e64c3b1b058), this will cause launch time delays
+[15Jun2025 05:35:07.482] [Worker-Main-44/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_3 is being run through DFU (hash fe5c6e9663030b4016e6c6206052de4be9ca84aa13c3f040819a69544ee9b57b), this will cause launch time delays
+[15Jun2025 05:35:07.483] [Worker-Main-44/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_14 is being run through DFU (hash ec9ed2ac371b6d15dc0c74fa68347c1e15ab795d36624f7edff9fb360e2eb372), this will cause launch time delays
+[15Jun2025 05:35:07.484] [Worker-Main-44/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_17 is being run through DFU (hash 5cc8d79612fb87ee253b6446a055f95ef273582846969490033ec961e454ae36), this will cause launch time delays
+[15Jun2025 05:35:07.484] [Worker-Main-44/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_9 is being run through DFU (hash 16d1ede724733ae81a07ac76b871c1ee2d319377628a30324e62b978fd58d614), this will cause launch time delays
+[15Jun2025 05:35:07.485] [Worker-Main-44/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_13 is being run through DFU (hash b8d0f0918979d80f6b90ac6bb07d0b4bde968ac87dbcabff3badb2ef36ca375f), this will cause launch time delays
+[15Jun2025 05:35:07.486] [Worker-Main-44/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_6 is being run through DFU (hash ec8f10d2dd8dc12b080a6401e1517453f3e9840d14051091c9db180632a69ce5), this will cause launch time delays
+[15Jun2025 05:35:07.487] [Worker-Main-44/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_room_0 is being run through DFU (hash 21d73ab966a24b1220e22250d20b3987ca27192727a9f5c2001b1f458a53337f), this will cause launch time delays
+[15Jun2025 05:35:07.491] [Worker-Main-44/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_hallway_0 is being run through DFU (hash 6aecc171c6929a39bce4c75ed36717f58933bb024f157672bb60d9506b2d23a5), this will cause launch time delays
+[15Jun2025 05:35:07.495] [Worker-Main-44/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_room_3 is being run through DFU (hash 4a44fca0fdc52a18cc7c00aa8fb990c29f4ab5adaecb62165af188a5c9cd7118), this will cause launch time delays
+[15Jun2025 05:35:07.505] [Worker-Main-44/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_room_1 is being run through DFU (hash 81cbda83562e6a93ce47df5661a374c4329e2b54eb2e732e5b2b031224650ea6), this will cause launch time delays
+[15Jun2025 05:35:07.509] [Worker-Main-44/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_stairs_0 is being run through DFU (hash a507bbc9cdd996779da1bbf7f5a2fae28cb8de01b0828b096310995bf42b6f46), this will cause launch time delays
+[15Jun2025 05:35:07.512] [Worker-Main-44/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_room_2 is being run through DFU (hash 0e773702dfd7903966a6c66c9be4c26bf3f12da690406ecd26dedf9f9978c252), this will cause launch time delays
+[15Jun2025 05:35:07.518] [Worker-Main-44/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_hallway_4 is being run through DFU (hash 4a3462cc199e7ee6f9e46e9a5820a55a6632bf4069393c2f270d4c710d77b56a), this will cause launch time delays
+[15Jun2025 05:35:07.520] [Worker-Main-44/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_hallway_6 is being run through DFU (hash aa04001176bee4c15902dd75eb682bdf15c6ad4fe677f933941eb4245727fe01), this will cause launch time delays
+[15Jun2025 05:35:07.523] [Worker-Main-44/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_stairs_1 is being run through DFU (hash d5414a501181e1e71a8e360bb449e36a1eaf1ba8b9f4fad85b5c3eddd2edf3ee), this will cause launch time delays
+[15Jun2025 05:35:07.525] [Worker-Main-44/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_hallway_2 is being run through DFU (hash 5ccfcf76488c9da318da5a390390e6cfb02568f9ee5b8900242bb30570eb0c27), this will cause launch time delays
+[15Jun2025 05:35:07.527] [Worker-Main-44/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_hallway_5 is being run through DFU (hash 00beef40df7e2c447816dd5e92d14073d158f36b9948385538c85d16ebeadd10), this will cause launch time delays
+[15Jun2025 05:35:07.530] [Worker-Main-44/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_hallway_3 is being run through DFU (hash 77ce20e83bc59cba13b4034c57957121c9da3d23fd133389460b25340ed78b62), this will cause launch time delays
+[15Jun2025 05:35:07.532] [Worker-Main-44/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_room_4 is being run through DFU (hash 5b19ff671c5d4d84e795097519c1ee8e9b4f1d38c000bb7d15f5f12f3d95f958), this will cause launch time delays
+[15Jun2025 05:35:07.537] [Worker-Main-44/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_terminator_0 is being run through DFU (hash 92756234c71261ffa822988e7a28bd73bd58b367b99be0e6bfb0fbca9c19bd9f), this will cause launch time delays
+[15Jun2025 05:35:07.538] [Worker-Main-44/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_spawner_1 is being run through DFU (hash 6faba2551547219adf4cbc800ade68cddb6a5a5305ce3e02796f1b8b699ce2cd), this will cause launch time delays
+[15Jun2025 05:35:07.562] [Worker-Main-44/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_spawner_0 is being run through DFU (hash 57e4f869833b448d7d7dfab16d398138486920e00b9bf055732aeb9759a3b342), this will cause launch time delays
+[15Jun2025 05:35:19.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> penes de coca cola?
+[15Jun2025 05:35:28.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> :eggplant::peach::hot_face:
+[15Jun2025 05:35:46.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> :blobcatcaged::blobcatcaged:
+[15Jun2025 05:35:51.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Santix15) moved wrongly! 0.40288606606372923
+[15Jun2025 05:35:51.667] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Santix15) moved wrongly! 0.5813767625675723
+[15Jun2025 05:35:51.684] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Santix15) moved wrongly! 0.8247997451010178
+[15Jun2025 05:36:08.382] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=11}
+[15Jun2025 05:36:34.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> uuuuf ese crepper
+[15Jun2025 05:36:48.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> :poop::poop:
+[15Jun2025 05:37:06.897] [Worker-Main-20/DEBUG] [ModernFix/]: Structure graveyard:small_graveyard/small_graveyard_05 is being run through DFU (hash a70a81d21a9536ad233a7ffa18269984bf80d09c83ab2107258681f999a20798), this will cause launch time delays
+[15Jun2025 05:37:07.619] [Worker-Main-12/DEBUG] [ModernFix/]: Structure graveyard:small_graveyard/small_graveyard_09 is being run through DFU (hash 511904dab45dd62e6d9ec30c18ca368ecbc2c8301fbac7f599a58a20d8788e16), this will cause launch time delays
+[15Jun2025 05:37:15.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> :blobstabby::blobstabby:
+[15Jun2025 05:37:23.904] [Worker-Main-20/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/hallway/hallway_straight_2 is being run through DFU (hash bea25291af31dab778e39c3b48513c21dff4bad4b781f0612901d95e79d0be09), this will cause launch time delays
+[15Jun2025 05:37:23.907] [Worker-Main-20/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/hallway/hallway_straight is being run through DFU (hash 9d3c6a45085e2089d7ea788010e8e8d728961046490fdff1eb9bfd9e9fe21a15), this will cause launch time delays
+[15Jun2025 05:37:23.909] [Worker-Main-20/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/hallway/hallway_turn_1 is being run through DFU (hash 55c1ab3858ca328b01d618ab63090048bf809f4f8a78644c2bf3a95e43d68f6c), this will cause launch time delays
+[15Jun2025 05:37:23.913] [Worker-Main-20/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room_origin_2 is being run through DFU (hash 9453f28bdd6b745cb38f92c708e152e1910c403ab4fcec53cb18024fae6e1c7e), this will cause launch time delays
+[15Jun2025 05:37:23.916] [Worker-Main-20/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/hallway_connector is being run through DFU (hash 0903bbcbe2eb4344a3458800358fd77dd87acc5748b8c529f6abf3c0e14146ff), this will cause launch time delays
+[15Jun2025 05:37:23.919] [Worker-Main-20/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room_origin_arch is being run through DFU (hash 1ba8425d8e64a74e58c0d95b0ca9903bb329c6ef4934ae834d3d46e8b14901cd), this will cause launch time delays
+[15Jun2025 05:37:23.925] [Worker-Main-20/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room_origin_zigzag is being run through DFU (hash e4aa2324c4f5665c93a3f3f1035544b00815c7cadde1dda9322cf7ac9325f5dc), this will cause launch time delays
+[15Jun2025 05:37:23.929] [Worker-Main-20/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room_origin_1 is being run through DFU (hash a7d1737f84746d593892bfd10a077e78cd8646a61f67511f4b7519173d527f9d), this will cause launch time delays
+[15Jun2025 05:37:23.932] [Worker-Main-20/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/dropdown_hallway is being run through DFU (hash 04e33d7337431cb18c063bffc7b63fa98053b31a9ed5f59494927858847e57e6), this will cause launch time delays
+[15Jun2025 05:37:23.939] [Worker-Main-20/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/hallway/hallway_spiral_stairs is being run through DFU (hash 9d2a4ef561c42e7a62ab0b1b9eba12fe41be64dc2180eb25802b92706a7985c6), this will cause launch time delays
+[15Jun2025 05:37:23.943] [Worker-Main-20/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/balcony is being run through DFU (hash bd6b73833ee18760771079d0577d7ce4114d78a30bde7faf326c4cad75e06be8), this will cause launch time delays
+[15Jun2025 05:37:23.956] [Worker-Main-20/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/end_hallway_wall is being run through DFU (hash efeecb970d335903aab58981d98241a14ad0c9551e4d8209d45669a29588287e), this will cause launch time delays
+[15Jun2025 05:37:23.957] [Worker-Main-20/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/end_room_wall is being run through DFU (hash fa6752c910b6419f7e91fb9ac6d0b60e7eac0bf7151df2da07b76d11d01b41ff), this will cause launch time delays
+[15Jun2025 05:37:23.960] [Worker-Main-20/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/small_storage_3 is being run through DFU (hash b439678c2cca2aa6b2d834eacbae61c1bdddd129cf9b6a939dddb8ec8533faf8), this will cause launch time delays
+[15Jun2025 05:37:23.965] [Worker-Main-20/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/study_platform is being run through DFU (hash 39e786522610a2899515c54b553ad606a6fd10d30330f705c7949c69bb862ced), this will cause launch time delays
+[15Jun2025 05:37:23.970] [Worker-Main-20/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/dormitories_2 is being run through DFU (hash 3c9ef6a50d571cbbf2236fe8328b67270fcf28177a0c23535170ac434a07bb63), this will cause launch time delays
+[15Jun2025 05:37:23.980] [Worker-Main-20/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/crypt_2 is being run through DFU (hash cd2c82202236fa12a230a3e1ea4e23bb934b80cdafb27c699483921ca2acf980), this will cause launch time delays
+[15Jun2025 05:37:23.985] [Worker-Main-20/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/wall_crypt is being run through DFU (hash 55f20006c0a0d7b8268eeac4cd0d3377c004d30ccc14cf90a3034ba822241120), this will cause launch time delays
+[15Jun2025 05:37:23.986] [Worker-Main-20/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/reception is being run through DFU (hash 7885390e71976407b6213da21e05bf0bcbd22cdedfb722ed2b2166612317ac33), this will cause launch time delays
+[15Jun2025 05:37:23.989] [Worker-Main-20/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/boiler is being run through DFU (hash c10eb28f7ca575fda9e31f21e8a24942fc3d99c04e86cee1f70f42c0af38320c), this will cause launch time delays
+[15Jun2025 05:37:23.993] [Worker-Main-20/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/armorstand is being run through DFU (hash 80daf3838bde3ca4d4b922380caee4a9ed02a98623b6c507d83bf9aac282ec8e), this will cause launch time delays
+[15Jun2025 05:37:23.998] [Worker-Main-20/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/small_storage_2 is being run through DFU (hash a7d2850225274e7f12b3054eb652de8437f945162d32fe4507a3cfa03eb4235e), this will cause launch time delays
+[15Jun2025 05:37:24.000] [Worker-Main-20/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/dormitories_1 is being run through DFU (hash c6f77167dc5ad017f105d8d648e3d901f817e0a407f7684700be61accc774a88), this will cause launch time delays
+[15Jun2025 05:37:24.011] [Worker-Main-20/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/ravager_prison is being run through DFU (hash 8beed8211af18c58fa3143832d111e7f4d2cb8fd28c6046dbd93078640bcd0e4), this will cause launch time delays
+[15Jun2025 05:37:24.023] [Worker-Main-20/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/small_storage_1 is being run through DFU (hash 3776e200c1ea6c0e7a520c2cd43b3872ac017b1a9f0856eb6a42c47144855cad), this will cause launch time delays
+[15Jun2025 05:37:24.027] [Worker-Main-20/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/trap_jail is being run through DFU (hash c9dcecb3c3096be04f646a5d1b91d104866647e7a1298a025818aa98b766ecb7), this will cause launch time delays
+[15Jun2025 05:37:24.031] [Worker-Main-20/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/trap_pitfall is being run through DFU (hash d5ba426cfcd818119f431d16cd3909b73fb128dd7f7bbb873e063abef0a334b9), this will cause launch time delays
+[15Jun2025 05:37:24.035] [Worker-Main-20/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/crypt_1 is being run through DFU (hash 8d1b3133f1e2b8a666a70f531084e6d286ca652cdd13792224374263dcbfbadd), this will cause launch time delays
+[15Jun2025 05:37:24.040] [Worker-Main-20/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/small_spawner_1 is being run through DFU (hash 50e33a4b9356a0698f4cb9cf6a75e2eb81fe38aca765c982e2d1afb9adfc75f3), this will cause launch time delays
+[15Jun2025 05:37:24.043] [Worker-Main-20/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/double_storage is being run through DFU (hash f7e8db79a930a748736e118e2ca1cca0e4f7901e6f526a4c2a2673611486fc01), this will cause launch time delays
+[15Jun2025 05:37:25.137] [Worker-Main-20/DEBUG] [ModernFix/]: Structure dungeons_arise:wishing_well/wishing_well_effect_4_haste is being run through DFU (hash 613f92c92d7def00c8677d40d9d4b5d9ac159ea26dcea3f4f197c5e275fdbb65), this will cause launch time delays
+[15Jun2025 05:37:25.139] [Worker-Main-20/DEBUG] [ModernFix/]: Structure dungeons_arise:wishing_well/wishing_well_effect_2_wither is being run through DFU (hash 90dec482e3981c736d3dcd45680ac122a284bce1164192f739d37f6d8b89ea28), this will cause launch time delays
+[15Jun2025 05:37:25.140] [Worker-Main-20/DEBUG] [ModernFix/]: Structure dungeons_arise:wishing_well/wishing_well_effect_0_speed is being run through DFU (hash 08c7dbcac4361b53f887a0b139a27993c17934fa5265d08549feddfd41f6b04d), this will cause launch time delays
+[15Jun2025 05:37:25.142] [Worker-Main-20/DEBUG] [ModernFix/]: Structure dungeons_arise:wishing_well/wishing_well_effect_1_regen is being run through DFU (hash b0fbd23a1fcc0edd723dcc70fe49a848056f159acd67c0c5b8355404aae3ea35), this will cause launch time delays
+[15Jun2025 05:37:25.143] [Worker-Main-20/DEBUG] [ModernFix/]: Structure dungeons_arise:wishing_well/wishing_well_effect_3_resistance is being run through DFU (hash 31d70c13becb5994ae3d8506fb89bcbfb627317d737970714740a759f8d5ae3e), this will cause launch time delays
+[15Jun2025 05:37:26.720] [Worker-Main-44/DEBUG] [ModernFix/]: Structure graveyard:mushroom_grave/mushroom_grave_03 is being run through DFU (hash 7786898a6911b17c2fdc26ccc47ee6cdc009d6d75da07f2b93dde06e9abb4c9a), this will cause launch time delays
+[15Jun2025 05:37:40.029] [Worker-Main-20/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1861, y=-10, z=9}
+[15Jun2025 05:37:46.999] [Worker-Main-13/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1866, y=-10, z=-16}
+[15Jun2025 05:37:46.999] [Worker-Main-13/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1867, y=-10, z=-6}
+[15Jun2025 05:37:46.999] [Worker-Main-13/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1861, y=-10, z=-16}
+[15Jun2025 05:38:07.201] [Worker-Main-12/DEBUG] [ModernFix/]: Structure graveyard:small_desert_grave/small_desert_grave_06 is being run through DFU (hash f1d53644703d518b5268e140eebe3bef6d450610d126983900dce702abf35b53), this will cause launch time delays
+[15Jun2025 05:38:14.897] [Worker-Main-44/DEBUG] [ModernFix/]: Structure morevillagers:village/snowy/snowy_woodworker is being run through DFU (hash 235d2abd833a48cdbddf7c70caf7e502ddd4b400b62935aaed73434fd57f9f29), this will cause launch time delays
+[15Jun2025 05:38:14.918] [Worker-Main-44/DEBUG] [ModernFix/]: Structure morevillagers:village/snowy/snowy_oceanographer is being run through DFU (hash 86f82696fa2d18f5ac12ab1b1ef82357304b4201a1e1d3ed90a2db9380022d63), this will cause launch time delays
+[15Jun2025 05:38:14.922] [Worker-Main-44/DEBUG] [ModernFix/]: Structure morevillagers:village/snowy/snowy_florist is being run through DFU (hash 264e3636b6e8914adced417a87cf7b0a4f4b4221c66256fe5089d7e856f460e2), this will cause launch time delays
+[15Jun2025 05:38:14.925] [Worker-Main-44/DEBUG] [ModernFix/]: Structure morevillagers:village/snowy/snowy_hunter is being run through DFU (hash 86e27179b2d15170c231881a235e1996000ee66eae2847869e56de3aeb7850de), this will cause launch time delays
+[15Jun2025 05:38:14.931] [Worker-Main-44/DEBUG] [ModernFix/]: Structure morevillagers:village/snowy/snowy_engineer is being run through DFU (hash 20bece5e4b609f61d0c3f70c6a34fe93f574aaae6fa81f74eac3b251b859fda7), this will cause launch time delays
+[15Jun2025 05:38:15.095] [Worker-Main-44/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[15Jun2025 05:38:21.500] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 05:38:21.515] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 05:38:28.997] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:lookout_tower
+[15Jun2025 05:38:30.469] [Worker-Main-13/DEBUG] [ModernFix/]: Structure graveyard:small_mountain_grave/small_mountains_grave_03 is being run through DFU (hash 9c672064577c8faaa52d9dcc7b4a0dc2c4c4b3b63c415c1bf325003143735632), this will cause launch time delays
+[15Jun2025 05:38:32.370] [Worker-Main-13/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1952, y=-23, z=32}
+[15Jun2025 05:38:42.178] [Worker-Main-13/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1952, y=-23, z=32}
+[15Jun2025 05:39:00.694] [Worker-Main-13/DEBUG] [ModernFix/]: Structure morevillagers:village/plains/plains_woodworker is being run through DFU (hash 7f7cb9be5d31837e354e34b054160050add037a2d8cf200f26e95eb504698b1b), this will cause launch time delays
+[15Jun2025 05:39:00.698] [Worker-Main-13/DEBUG] [ModernFix/]: Structure morevillagers:village/plains/plains_oceanographer is being run through DFU (hash cfa09a8e37ba892454d26aaf222f88ad311e792355731481259ecba19fe50f7c), this will cause launch time delays
+[15Jun2025 05:39:00.702] [Worker-Main-13/DEBUG] [ModernFix/]: Structure morevillagers:village/plains/plains_florist is being run through DFU (hash 1d706c4504732b18a542948e7cab45b8d5ae51b8d71935f05895127165ae39cd), this will cause launch time delays
+[15Jun2025 05:39:00.705] [Worker-Main-13/DEBUG] [ModernFix/]: Structure morevillagers:village/plains/plains_hunter is being run through DFU (hash ceabc85854d08b2b69c17ca9db1e2f2cabee1a5a7bab55dc8c2738d23a09a5d5), this will cause launch time delays
+[15Jun2025 05:39:00.709] [Worker-Main-13/DEBUG] [ModernFix/]: Structure morevillagers:village/plains/plains_engineer is being run through DFU (hash 86d47ae7023c864767526c2e3f5e1cefed1e58e0de3731cf60f780ade634d7c7), this will cause launch time delays
+[15Jun2025 05:39:00.715] [Worker-Main-13/DEBUG] [ModernFix/]: Structure irons_spellbooks:priest_house is being run through DFU (hash d76810475d0e95759e3aba14294cb4faa0f372ebdd371e669f8740fcad373d48), this will cause launch time delays
+[15Jun2025 05:39:00.853] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Jun2025 05:39:00.854] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": -3838912
+}
+[15Jun2025 05:39:00.854] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 44 extra bytes: 
+[15Jun2025 05:39:00.855] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "s1+i{vZE6336N/"
+]
+[15Jun2025 05:39:01.356] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_plains took 710 ms
+[15Jun2025 05:39:25.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> gonciiii
+[15Jun2025 05:39:28.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> que
+[15Jun2025 05:39:31.175] [Worker-Main-13/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1904, y=-23, z=6}
+[15Jun2025 05:39:31.175] [Worker-Main-13/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1906, y=-10, z=25}
+[15Jun2025 05:39:31.181] [Worker-Main-13/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1866, y=-10, z=2}
+[15Jun2025 05:39:31.181] [Worker-Main-13/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1866, y=-10, z=-16}
+[15Jun2025 05:39:31.181] [Worker-Main-13/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1867, y=-10, z=19}
+[15Jun2025 05:39:31.182] [Worker-Main-13/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1861, y=-10, z=9}
+[15Jun2025 05:39:31.186] [Worker-Main-13/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1867, y=-10, z=19}
+[15Jun2025 05:39:33.273] [Worker-Main-20/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1911, y=-23, z=18}
+[15Jun2025 05:39:33.274] [Worker-Main-20/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1905, y=-23, z=17}
+[15Jun2025 05:39:33.274] [Worker-Main-20/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1906, y=-10, z=25}
+[15Jun2025 05:39:33.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> pusiste mods que autos?
+[15Jun2025 05:39:43.600] [Worker-Main-44/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_top_3 is being run through DFU (hash 87585b478e3870e6dfdc4175f0be09d3a47f732ee6eb6f8298cb860380951b38), this will cause launch time delays
+[15Jun2025 05:39:48.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> los que ya estaban
+[15Jun2025 05:39:51.274] [Worker-Main-13/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1952, y=-23, z=32}
+[15Jun2025 05:40:01.698] [Worker-Main-13/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1952, y=-23, z=32}
+[15Jun2025 05:40:01.703] [Worker-Main-13/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1911, y=-23, z=18}
+[15Jun2025 05:40:24.673] [Worker-Main-20/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1965, y=-23, z=-65}
+[15Jun2025 05:40:24.674] [Worker-Main-20/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1960, y=-23, z=-59}
+[15Jun2025 05:40:24.674] [Worker-Main-20/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1966, y=-23, z=-48}
+[15Jun2025 05:40:24.696] [Worker-Main-20/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1965, y=-23, z=-65}
+[15Jun2025 05:40:24.696] [Worker-Main-20/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1965, y=-23, z=-83}
+[15Jun2025 05:40:24.697] [Worker-Main-20/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1960, y=-23, z=-76}
+[15Jun2025 05:40:24.697] [Worker-Main-20/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1966, y=-23, z=-66}
+[15Jun2025 05:40:24.715] [Worker-Main-20/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1965, y=-23, z=-83}
+[15Jun2025 05:40:24.715] [Worker-Main-20/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1984, y=-23, z=-84}
+[15Jun2025 05:40:24.849] [Worker-Main-13/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1961, y=-23, z=-30}
+[15Jun2025 05:40:24.849] [Worker-Main-13/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1966, y=-23, z=-37}
+[15Jun2025 05:40:24.849] [Worker-Main-13/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1965, y=-23, z=-65}
+[15Jun2025 05:40:24.850] [Worker-Main-13/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1960, y=-23, z=-48}
+[15Jun2025 05:40:24.850] [Worker-Main-13/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1966, y=-23, z=-48}
+[15Jun2025 05:40:31.714] [Worker-Main-44/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1966, y=-23, z=-48}
+[15Jun2025 05:40:31.729] [Worker-Main-44/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1984, y=-23, z=-84}
+[15Jun2025 05:40:31.730] [Worker-Main-44/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1986, y=-23, z=-91}
+[15Jun2025 05:40:31.730] [Worker-Main-44/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1969, y=-23, z=-83}
+[15Jun2025 05:40:34.943] [Worker-Main-13/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1986, y=-23, z=-91}
+[15Jun2025 05:40:47.237] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Jun2025 05:40:47.242] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=930, z=1073200}"
+}
+[15Jun2025 05:40:47.244] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[15Jun2025 05:40:47.248] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[26, 12, -92, 18, -53, -79, -125, 124, -105, -3, -104]"
+]
+[15Jun2025 05:40:48.504] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Jun2025 05:40:48.505] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=867, z=1073200}"
+}
+[15Jun2025 05:40:48.506] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[15Jun2025 05:40:48.506] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-65, -7, 30, 103, 98, 12, -4, 15, 121, 70, 81]"
+]
+[15Jun2025 05:40:49.288] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Jun2025 05:40:49.288] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=795, z=1073200}"
+}
+[15Jun2025 05:40:49.288] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[15Jun2025 05:40:49.288] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-124, 111, 47, -33, -36, -128, 46, 125, 19, -85, -108]"
+]
+[15Jun2025 05:40:49.707] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Jun2025 05:40:49.707] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=777, z=1073200}"
+}
+[15Jun2025 05:40:49.707] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[15Jun2025 05:40:49.707] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[58, -93, 105, 73, -15, -47, 124, 85, 53, -26, 30]"
+]
+[15Jun2025 05:40:49.960] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Jun2025 05:40:49.961] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=944, z=1073200}"
+}
+[15Jun2025 05:40:49.961] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[15Jun2025 05:40:49.961] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-121, 125, 26, 45, 65, -78, -49, 65, -40, -98, 93]"
+]
+[15Jun2025 05:40:50.284] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Jun2025 05:40:50.284] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=786, z=1073200}"
+}
+[15Jun2025 05:40:50.284] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[15Jun2025 05:40:50.285] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[51, 76, -37, 5, -55, 114, 12, -61, 24, 112, 72]"
+]
+[15Jun2025 05:40:50.414] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Jun2025 05:40:50.415] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=906, z=1073200}"
+}
+[15Jun2025 05:40:50.415] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[15Jun2025 05:40:50.415] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "`trn)0-/"
+]
+[15Jun2025 05:40:50.968] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Jun2025 05:40:50.969] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=939, z=1073200}"
+}
+[15Jun2025 05:40:50.969] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[15Jun2025 05:40:50.970] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-4, -39, -31, -107, 17, -78, 116, -79, 94, 26, -17]"
+]
+[15Jun2025 05:40:51.084] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Jun2025 05:40:51.084] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=797, z=1073200}"
+}
+[15Jun2025 05:40:51.084] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[15Jun2025 05:40:51.085] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-18, 74, 108, 18, 83, -47, 66, 46, 81, 45, -64]"
+]
+[15Jun2025 05:40:51.715] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Jun2025 05:40:51.715] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=978, z=1073200}"
+}
+[15Jun2025 05:40:51.715] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[15Jun2025 05:40:51.716] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[70, -46, -114, 76, 58, -22, -67, -57, 58, -107, -12]"
+]
+[15Jun2025 05:40:52.695] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Jun2025 05:40:52.695] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=5768192, y=893, z=1122352}"
+}
+[15Jun2025 05:40:52.695] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[15Jun2025 05:40:52.695] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-107, 24, 53, 39, -110, -74, 126, -17, -125, -124, 33]"
+]
+[15Jun2025 05:40:53.243] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Jun2025 05:40:53.244] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-8125440, y=945, z=905264}"
+}
+[15Jun2025 05:40:53.244] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[15Jun2025 05:40:53.244] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[20, 17, -42, 62, 113, -82, -121, 44, 51, -95, 53]"
+]
+[15Jun2025 05:40:53.515] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Jun2025 05:40:53.515] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-11271168, y=850, z=856112}"
+}
+[15Jun2025 05:40:53.515] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[15Jun2025 05:40:53.515] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-54, 36, 93, -2, 30, -64, -10, 79, -122, -81, 32]"
+]
+[15Jun2025 05:41:36.369] [Worker-Main-12/DEBUG] [ModernFix/]: Structure graveyard:mushroom_grave/mushroom_grave_01 is being run through DFU (hash 7e8b1a464799973dd5d61614e5d1a23a359defe09d4677fefeac6665c016c4d0), this will cause launch time delays
+[15Jun2025 05:41:42.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> duermen?
+[15Jun2025 05:41:57.479] [Worker-Main-12/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1966, y=-23, z=-37}
+[15Jun2025 05:41:57.480] [Worker-Main-12/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1966, y=-23, z=-48}
+[15Jun2025 05:42:05.387] [Worker-Main-20/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1965, y=-23, z=-29}
+[15Jun2025 05:42:05.387] [Worker-Main-20/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1961, y=-23, z=-30}
+[15Jun2025 05:42:05.387] [Worker-Main-20/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1960, y=-23, z=-21}
+[15Jun2025 05:42:05.388] [Worker-Main-20/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1966, y=-23, z=-12}
+[15Jun2025 05:42:09.149] [Worker-Main-44/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:dead_tree/dead_tree
+[15Jun2025 05:42:18.933] [Worker-Main-44/DEBUG] [ModernFix/]: Structure irons_spellbooks:evoker_fort/decorations/villager_cage_half_cage is being run through DFU (hash a498c3ece3f43e5f8abe220601a6ff168e525b7fc531fc49dad3731b0f2c39a9), this will cause launch time delays
+[15Jun2025 05:42:18.936] [Worker-Main-44/DEBUG] [ModernFix/]: Structure irons_spellbooks:evoker_fort/decorations/villager_cage_half_guard_tower is being run through DFU (hash 139db89f5ae9a0916d9a49101803b88b85a3e550e1b98b10c803443f5c497634), this will cause launch time delays
+[15Jun2025 05:42:18.949] [Worker-Main-44/DEBUG] [ModernFix/]: Structure irons_spellbooks:evoker_fort/villager_spawns/villager_mage is being run through DFU (hash 47aa8bbef5ab6f6e3817780d5d9d0a71fd2df2a1df24deacfee0b4d99e2bb767), this will cause launch time delays
+[15Jun2025 05:42:18.954] [Worker-Main-44/DEBUG] [ModernFix/]: Structure irons_spellbooks:evoker_fort/villager_spawns/villager_normal is being run through DFU (hash b7bdedcb960e9cab71287a58683ff21db24d279071de109b970f01bd985fde39), this will cause launch time delays
+[15Jun2025 05:42:18.956] [Worker-Main-44/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[15Jun2025 05:42:25.651] [Worker-Main-20/DEBUG] [ModernFix/]: Structure mowziesmobs:frostmaw_spawn is being run through DFU (hash 1a197889d263c12966f1abd25989fefe2ef31123d3bbe370dc207a1d953a454a), this will cause launch time delays
+[15Jun2025 05:42:27.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Acquire Hardware]
+[15Jun2025 05:42:27.471] [Worker-Main-12/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/hallway/hallway_tee_1 is being run through DFU (hash ccccdc9810bb4cd107d9052713a6d4018868fbfaff45dae73f8fb221785f4413), this will cause launch time delays
+[15Jun2025 05:42:32.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Stay dead]
+[15Jun2025 05:42:48.932] [Worker-Main-44/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-721, y=33, z=-897}
+[15Jun2025 05:43:14.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [The Wind Darkening]
+[15Jun2025 05:43:20.046] [Worker-Main-44/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1952, y=-23, z=32}
+[15Jun2025 05:43:20.082] [Worker-Main-12/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1967, y=-23, z=-11}
+[15Jun2025 05:43:20.083] [Worker-Main-12/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1968, y=-23, z=2}
+[15Jun2025 05:43:20.083] [Worker-Main-12/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1965, y=-23, z=-29}
+[15Jun2025 05:43:20.084] [Worker-Main-12/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1958, y=-23, z=-9}
+[15Jun2025 05:43:20.084] [Worker-Main-12/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1960, y=-23, z=-21}
+[15Jun2025 05:43:20.085] [Worker-Main-12/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1966, y=-23, z=-12}
+[15Jun2025 05:43:20.098] [Worker-Main-12/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1968, y=-23, z=2}
+[15Jun2025 05:43:21.483] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 05:43:21.498] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 05:44:07.185] [Worker-Main-13/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1952, y=-23, z=32}
+[15Jun2025 05:44:07.194] [Worker-Main-13/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1953, y=-23, z=4}
+[15Jun2025 05:44:07.194] [Worker-Main-13/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1967, y=-23, z=-11}
+[15Jun2025 05:44:07.195] [Worker-Main-13/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1968, y=-23, z=2}
+[15Jun2025 05:44:07.195] [Worker-Main-13/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1958, y=-23, z=-9}
+[15Jun2025 05:44:07.200] [Worker-Main-13/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1968, y=-23, z=2}
+[15Jun2025 05:44:43.504] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Jun2025 05:44:43.505] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 10
+}
+[15Jun2025 05:44:43.505] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[15Jun2025 05:44:43.505] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "p,>.WNUQr,X336X7l4$"
+]
+[15Jun2025 05:44:56.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Sweet Dreams]
+[15Jun2025 05:45:04.736] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
+[15Jun2025 05:45:04.737] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[15Jun2025 05:45:06.623] [Worker-Main-20/DEBUG] [ModernFix/]: Structure graveyard:small_desert_grave/small_desert_grave_13 is being run through DFU (hash 095d46cb310c2816937d32c79500d98da0f89d4e3099785017a96fe3067cf5b8), this will cause launch time delays
+[15Jun2025 05:45:09.733] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
+[15Jun2025 05:45:09.733] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
+[15Jun2025 05:45:09.733] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
+[15Jun2025 05:45:20.319] [Worker-Main-13/DEBUG] [ModernFix/]: Structure graveyard:medium_graveyard/medium_graveyard_01 is being run through DFU (hash aae954b46b33c18292a82912817d49d1d3280d65b48008cb8aaf2a26e70c9477), this will cause launch time delays
+[15Jun2025 05:45:22.148] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1, y=-56, z=26}
+[15Jun2025 05:45:22.148] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-2, y=-56, z=26}
+[15Jun2025 05:45:22.148] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=-56, z=26}
+[15Jun2025 05:45:22.149] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=19}
+[15Jun2025 05:45:54.424] [Worker-Main-20/DEBUG] [ModernFix/]: Structure graveyard:small_grave/small_grave_11 is being run through DFU (hash e13973044bf6be999c0861141e571cc165bc9d074c53dd2162990aaac762d503), this will cause launch time delays
+[15Jun2025 05:46:02.676] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=18}
+[15Jun2025 05:46:51.697] [Worker-Main-44/DEBUG] [ModernFix/]: Structure graveyard:ruins/ruins_02 is being run through DFU (hash 95a044bc6c380badc53030ef99650136227b40b665a12081ae2175f3de2c49ef), this will cause launch time delays
+[15Jun2025 05:47:55.576] [Worker-Main-13/DEBUG] [ModernFix/]: Structure graveyard:small_mountain_grave/small_mountains_grave_08 is being run through DFU (hash 03673c988a4e037dc1f4cb5fe7f9441c58b69fceece6acdffe4ecee00247d5ff), this will cause launch time delays
+[15Jun2025 05:47:58.983] [Worker-Main-12/DEBUG] [ModernFix/]: Structure graveyard:small_desert_graveyard/small_desert_graveyard_01 is being run through DFU (hash aabbd74d855cc66d4a3611a477fb9bb23d22e976a152baf6dfdf17e693f96678), this will cause launch time delays
+[15Jun2025 05:48:03.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YOUNGDINO07> :bongocat:
