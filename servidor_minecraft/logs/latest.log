@@ -2683,3 +2683,89 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [15Jun2025 21:49:15.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC was slain by Equestrian
 [15Jun2025 21:49:18.451] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [15Jun2025 21:49:18.452] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[15Jun2025 21:49:35.443] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Jun2025 21:49:35.444] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 55
+}
+[15Jun2025 21:49:35.444] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[15Jun2025 21:49:35.444] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "(bf&SELb\\8$320*!>"
+]
+[15Jun2025 21:50:09.562] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Jun2025 21:50:09.562] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": -1895383775
+}
+[15Jun2025 21:50:09.563] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 44 extra bytes: 
+[15Jun2025 21:50:09.563] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "0>/XN!?O464\" "
+]
+[15Jun2025 21:50:12.085] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/327, l='ServerLevel[world]', x=-2658.47, y=65.00, z=-348.36] died, message: 'Unemployed was slain by Zombie Bruiser'
+[15Jun2025 21:50:16.648] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevedo909[/127.5.252.102:45957] logged in with entity id 2344 at (3.5, 120.0, 1.5)
+[15Jun2025 21:50:16.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 joined the game
+[15Jun2025 21:50:16.715] [Server thread/INFO] [Jade/]: Syncing config to kevedo909 (380318f8-90c8-30a1-b2c2-428693a3e9ab)
+[15Jun2025 21:50:19.535] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Florist'/250, l='ServerLevel[world]', x=-2658.36, y=67.00, z=-326.76] died, message: 'Florist was slain by Zombie Bruiser'
+[15Jun2025 21:50:33.742] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of kevedo909 (18)
+[15Jun2025 21:50:33.742] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to kevedo909
+[15Jun2025 21:51:11.444] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 380318f8-90c8-30a1-b2c2-428693a3e9ab
+[15Jun2025 21:51:12.441] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 380318f8-90c8-30a1-b2c2-428693a3e9ab
+[15Jun2025 21:51:12.442] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player kevedo909 (380318f8-90c8-30a1-b2c2-428693a3e9ab) successfully connected to voice chat
+[15Jun2025 21:51:46.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> hola chavales
+[15Jun2025 21:51:51.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 has made the advancement [Alex's Mobs]
+[15Jun2025 21:52:03.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> :peped:
+[15Jun2025 21:52:37.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> :grinning:
+[15Jun2025 21:52:40.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> xd
+[15Jun2025 21:52:58.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> donde pija estas?
+[15Jun2025 21:53:39.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> EU
+[15Jun2025 21:53:45.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> responde mrd
+[15Jun2025 21:53:53.592] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-8, y=119, z=5}
+[15Jun2025 21:53:55.888] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-8, y=119, z=5}
+[15Jun2025 21:53:56.039] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-8, y=120, z=5}
+[15Jun2025 21:54:33.874] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Jun2025 21:54:33.875] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 10878
+}
+[15Jun2025 21:54:33.875] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[15Jun2025 21:54:33.875] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "y+Y\\Nj<d\\6320 XQ"
+]
+[15Jun2025 21:54:42.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC has made the advancement [Gravedigger]
+[15Jun2025 21:54:51.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> :blobcatcoffee:
+[15Jun2025 21:54:56.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> ya estoy
+[15Jun2025 21:55:01.762] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Jun2025 21:55:01.763] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 21
+}
+[15Jun2025 21:55:01.763] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[15Jun2025 21:55:01.763] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "k-amSB.336sT"
+]
+[15Jun2025 21:55:10.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> che
+[15Jun2025 21:55:14.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> me escuchan?
+[15Jun2025 21:55:52.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> eu
+[15Jun2025 21:55:56.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> lpm
+[15Jun2025 21:56:05.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> me escuchan o que mierda gil
+[15Jun2025 21:56:16.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> nnono ya esta
+[15Jun2025 21:57:08.942] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Jun2025 21:57:08.943] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 95
+}
+[15Jun2025 21:57:08.943] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[15Jun2025 21:57:08.943] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "|79W\"'@j'-;JV{464uV_)W"
+]
+[15Jun2025 21:57:12.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Teleported kevedo909 to lobo3224]
+[15Jun2025 21:57:14.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 has made the advancement [First Village]
+[15Jun2025 21:58:12.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC has made the advancement [Stone Age]
+[15Jun2025 21:58:13.956] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2686, y=64, z=-341} BlockPos{x=-2687, y=62, z=-342}
+[15Jun2025 21:59:28.593] [Worker-Main-3/INFO] [ModernFix/]: Instantiating Mojang DFU
+[15Jun2025 21:59:33.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: The difficulty has been set to Hard]
