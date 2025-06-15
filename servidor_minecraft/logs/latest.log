@@ -3114,3 +3114,47 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [15Jun2025 22:40:01.488] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 lost connection: Disconnected
 [15Jun2025 22:40:01.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 left the game
 [15Jun2025 22:40:01.489] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lobo3224
+[15Jun2025 22:40:34.167] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Jun2025 22:40:34.167] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 52
+}
+[15Jun2025 22:40:34.167] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[15Jun2025 22:40:34.168] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "-nP#kpX&bqR0T528*p*"
+]
+[15Jun2025 22:43:00.396] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 71cf154b-6e54-326e-9700-98d60017873d timed out
+[15Jun2025 22:43:00.396] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player lautiABC
+[15Jun2025 22:43:00.397] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to lautiABC
+[15Jun2025 22:43:38.884] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautiABC lost connection: Timed out
+[15Jun2025 22:43:38.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC left the game
+[15Jun2025 22:43:38.886] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lautiABC
+[15Jun2025 22:46:05.562] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Jun2025 22:46:05.563] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": -726948273
+}
+[15Jun2025 22:46:05.563] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 44 extra bytes: 
+[15Jun2025 22:46:05.563] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "|n+'b:6XhZ#mH464.-! 5"
+]
+[15Jun2025 22:46:46.430] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Jun2025 22:46:46.431] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 18
+}
+[15Jun2025 22:46:46.431] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[15Jun2025 22:46:46.431] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "3~<gI%wiO;H?Zg336nY/k~"
+]
+[15Jun2025 22:48:30.289] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevedo909[/127.5.252.102:50719] logged in with entity id 17405 at (-2700.4689818012916, 63.0, -314.1105699843501)
+[15Jun2025 22:48:30.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 joined the game
+[15Jun2025 22:48:30.306] [Server thread/INFO] [Jade/]: Syncing config to kevedo909 (380318f8-90c8-30a1-b2c2-428693a3e9ab)
+[15Jun2025 22:48:35.584] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of kevedo909 (18)
+[15Jun2025 22:48:35.584] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to kevedo909
+[15Jun2025 22:49:08.530] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 380318f8-90c8-30a1-b2c2-428693a3e9ab
+[15Jun2025 22:49:09.556] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 380318f8-90c8-30a1-b2c2-428693a3e9ab
+[15Jun2025 22:49:09.557] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player kevedo909 (380318f8-90c8-30a1-b2c2-428693a3e9ab) successfully connected to voice chat
