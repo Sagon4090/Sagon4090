@@ -3215,3 +3215,54 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [15Jun2025 05:45:22.149] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=19}
 [15Jun2025 05:46:02.676] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=18}
 [15Jun2025 05:48:03.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YOUNGDINO07> :bongocat:
+[15Jun2025 05:50:03.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Acquire Hardware]
+[15Jun2025 05:50:21.312] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Jun2025 05:50:21.313] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 37
+}
+[15Jun2025 05:50:21.313] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[15Jun2025 05:50:21.313] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "@>$OEP$'(Ms#336K)KGb>"
+]
+[15Jun2025 05:51:08.389] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
+[15Jun2025 05:51:08.389] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
+[15Jun2025 05:51:08.396] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-291, y=-57, z=-315}
+[15Jun2025 05:51:08.396] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=-57, z=-315}
+[15Jun2025 05:51:08.396] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-293, y=-57, z=-315}
+[15Jun2025 05:51:08.643] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
+[15Jun2025 05:51:08.649] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-57, z=-313}
+[15Jun2025 05:51:08.649] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=-57, z=-313}
+[15Jun2025 05:51:08.649] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-296, y=-57, z=-313}
+[15Jun2025 05:51:11.834] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
+[15Jun2025 05:51:11.835] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[15Jun2025 05:52:08.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> a las 3 todos a zzzz
+[15Jun2025 05:52:12.807] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Jun2025 05:52:12.807] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Jun2025 05:52:16.453] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[15Jun2025 05:52:16.453] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[15Jun2025 05:52:23.162] [Worker-Main-20/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Jun2025 05:52:23.165] [Worker-Main-20/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Jun2025 05:52:29.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YOUNGDINO07> chau :blobcatuwu:
+[15Jun2025 05:52:32.090] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YOUNGDINO07 lost connection: Disconnected
+[15Jun2025 05:52:32.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 left the game
+[15Jun2025 05:52:32.090] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client YOUNGDINO07
+[15Jun2025 05:52:36.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> santi
+[15Jun2025 05:55:42.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was slain by Corpse Fly
+[15Jun2025 05:55:43.662] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jun2025 05:55:43.662] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[15Jun2025 05:56:01.433] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Jun2025 05:56:01.433] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 1165050
+}
+[15Jun2025 05:56:01.433] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 46 extra bytes: 
+[15Jun2025 05:56:01.433] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "J+e.OlI93!336?|^Z|V"
+]
+[15Jun2025 05:56:58.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 was slain by Piglin Brute
+[15Jun2025 05:57:00.208] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jun2025 05:57:00.209] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[15Jun2025 05:58:17.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Isn't It Iron Pick]
