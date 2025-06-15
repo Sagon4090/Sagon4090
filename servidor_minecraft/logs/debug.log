@@ -12260,3 +12260,76 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [15Jun2025 05:58:17.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Isn't It Iron Pick]
 [15Jun2025 05:58:21.493] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [15Jun2025 05:58:21.508] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 05:59:20.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was slain by Iron Golem
+[15Jun2025 05:59:21.760] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jun2025 05:59:21.760] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[15Jun2025 05:59:22.113] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1749967162097
+[15Jun2025 06:01:06.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 was slain by Wasp
+[15Jun2025 06:01:08.030] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jun2025 06:01:08.030] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[15Jun2025 06:01:08.370] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1749967268350
+[15Jun2025 06:01:34.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: The difficulty has been set to Peaceful]
+[15Jun2025 06:01:37.724] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Jun2025 06:01:37.724] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 1748739
+}
+[15Jun2025 06:01:37.724] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 46 extra bytes: 
+[15Jun2025 06:01:37.724] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "LX^B4PmRx7sJ-336=|/_N"
+]
+[15Jun2025 06:01:43.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: The difficulty has been set to Hard]
+[15Jun2025 06:02:23.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> :blobcatpopsicle:
+[15Jun2025 06:03:10.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was shot by Skeleton
+[15Jun2025 06:03:12.048] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jun2025 06:03:12.048] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[15Jun2025 06:03:12.427] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1749967392412
+[15Jun2025 06:03:21.487] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 06:03:21.502] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 06:03:52.910] [Worker-Main-20/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1264, y=85, z=-1120}
+[15Jun2025 06:03:52.913] [Worker-Main-20/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1227, y=73, z=-1097}
+[15Jun2025 06:03:52.926] [Worker-Main-12/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1264, y=85, z=-1120}
+[15Jun2025 06:03:52.928] [Worker-Main-12/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1232, y=80, z=-1117}
+[15Jun2025 06:03:52.928] [Worker-Main-12/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1227, y=73, z=-1097}
+[15Jun2025 06:05:46.021] [Worker-Main-13/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1264, y=85, z=-1120}
+[15Jun2025 06:05:46.024] [Worker-Main-13/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1227, y=73, z=-1097}
+[15Jun2025 06:05:46.030] [Worker-Main-12/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1264, y=85, z=-1120}
+[15Jun2025 06:05:46.035] [Worker-Main-12/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1232, y=80, z=-1117}
+[15Jun2025 06:05:46.035] [Worker-Main-12/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1227, y=73, z=-1097}
+[15Jun2025 06:05:46.037] [Worker-Main-12/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1244, y=66, z=-1106}
+[15Jun2025 06:05:46.037] [Worker-Main-12/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1250, y=66, z=-1119}
+[15Jun2025 06:05:46.037] [Worker-Main-12/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1250, y=66, z=-1126}
+[15Jun2025 06:05:46.037] [Worker-Main-12/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1243, y=66, z=-1119}
+[15Jun2025 06:05:46.038] [Worker-Main-12/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1237, y=66, z=-1126}
+[15Jun2025 06:05:50.205] [Worker-Main-20/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1264, y=85, z=-1120}
+[15Jun2025 06:05:50.209] [Worker-Main-20/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1227, y=73, z=-1097}
+[15Jun2025 06:05:50.218] [Worker-Main-20/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1264, y=85, z=-1120}
+[15Jun2025 06:05:50.221] [Worker-Main-20/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1227, y=73, z=-1097}
+[15Jun2025 06:05:50.222] [Worker-Main-20/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1244, y=66, z=-1106}
+[15Jun2025 06:05:50.223] [Worker-Main-20/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1250, y=66, z=-1119}
+[15Jun2025 06:05:50.223] [Worker-Main-20/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1251, y=66, z=-1119}
+[15Jun2025 06:05:50.223] [Worker-Main-20/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1250, y=66, z=-1126}
+[15Jun2025 06:05:51.377] [Worker-Main-44/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1227, y=73, z=-1097}
+[15Jun2025 06:05:51.535] [Worker-Main-44/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1227, y=73, z=-1097}
+[15Jun2025 06:05:51.536] [Worker-Main-44/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1250, y=66, z=-1126}
+[15Jun2025 06:05:51.537] [Worker-Main-44/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1237, y=66, z=-1126}
+[15Jun2025 06:05:51.540] [Worker-Main-44/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1227, y=73, z=-1097}
+[15Jun2025 06:05:51.541] [Worker-Main-44/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1250, y=66, z=-1126}
+[15Jun2025 06:06:38.081] [Worker-Main-44/DEBUG] [ModernFix/]: Structure aquamirae:blank is being run through DFU (hash 77d4ffd36ad5c1456457a872d2ef0cb682d0cfcdf9129c8ab02bbc6829553194), this will cause launch time delays
+[15Jun2025 06:06:45.961] [Worker-Main-20/DEBUG] [ModernFix/]: Structure aquamirae:tower is being run through DFU (hash 162e47110c363b3c9d04969a80abb02fe09fd4bafa0c01bd051b22828d2cba01), this will cause launch time delays
+[15Jun2025 06:07:14.531] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Jun2025 06:07:14.532] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 6999
+}
+[15Jun2025 06:07:14.532] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[15Jun2025 06:07:14.532] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "6~>^D2=Ouo0..5336nnicX~ba"
+]
+[15Jun2025 06:07:38.164] [Worker-Main-44/DEBUG] [ModernFix/]: Structure aquamirae:stone is being run through DFU (hash 0ebb221e12ddd320d4659cf7eea5dcf0c5be0e806a83170385a8f6a394ca598e), this will cause launch time delays
+[15Jun2025 06:07:40.624] [Server thread/INFO] [Scaling Health/]: Blight Bonescaller has died
+[15Jun2025 06:07:46.102] [Worker-Main-20/DEBUG] [ModernFix/]: Structure aquamirae:chest is being run through DFU (hash 5b9191a222cb3d50701ad94a0f98e8c836eaa63c918df55226df52eb79f584ad), this will cause launch time delays
+[15Jun2025 06:08:21.490] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 06:08:21.506] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

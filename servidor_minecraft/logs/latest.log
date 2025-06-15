@@ -3266,3 +3266,36 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [15Jun2025 05:57:00.208] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [15Jun2025 05:57:00.209] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
 [15Jun2025 05:58:17.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Isn't It Iron Pick]
+[15Jun2025 05:59:20.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was slain by Iron Golem
+[15Jun2025 05:59:21.760] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jun2025 05:59:21.760] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[15Jun2025 06:01:06.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 was slain by Wasp
+[15Jun2025 06:01:08.030] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jun2025 06:01:08.030] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[15Jun2025 06:01:34.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: The difficulty has been set to Peaceful]
+[15Jun2025 06:01:37.724] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Jun2025 06:01:37.724] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 1748739
+}
+[15Jun2025 06:01:37.724] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 46 extra bytes: 
+[15Jun2025 06:01:37.724] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "LX^B4PmRx7sJ-336=|/_N"
+]
+[15Jun2025 06:01:43.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: The difficulty has been set to Hard]
+[15Jun2025 06:02:23.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> :blobcatpopsicle:
+[15Jun2025 06:03:10.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was shot by Skeleton
+[15Jun2025 06:03:12.048] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jun2025 06:03:12.048] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[15Jun2025 06:07:14.531] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Jun2025 06:07:14.532] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 6999
+}
+[15Jun2025 06:07:14.532] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[15Jun2025 06:07:14.532] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "6~>^D2=Ouo0..5336nnicX~ba"
+]
+[15Jun2025 06:07:40.624] [Server thread/INFO] [Scaling Health/]: Blight Bonescaller has died
