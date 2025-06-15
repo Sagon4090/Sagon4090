@@ -520,6 +520,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-06-15 05:15:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-06-15 04:40:14 +0000"
@@ -583,6 +589,12 @@
   "refurbished_furniture:recipes/misc/constructing/acacia_bath": {
     "criteria": {
       "has_copper_ingot": "2025-06-15 05:04:45 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2025-06-15 05:17:28 +0000"
     },
     "done": true
   },
@@ -676,6 +688,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-15 05:15:40 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/jungle_cog": {
     "criteria": {
       "in_water": "2025-06-15 04:37:08 +0000"
@@ -727,6 +745,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-06-15 04:49:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_storage_jar": {
+    "criteria": {
+      "has_jungle_planks": "2025-06-15 05:17:28 +0000"
     },
     "done": true
   },
@@ -869,6 +893,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/jungle_cutting_board": {
+    "criteria": {
+      "has_jungle_planks": "2025-06-15 05:17:28 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_light_ceiling_fan": {
     "criteria": {
       "has_spruce_planks": "2025-06-15 04:57:56 +0000"
@@ -947,6 +977,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_drawer": {
+    "criteria": {
+      "has_jungle_planks": "2025-06-15 05:17:28 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_gray_cooler": {
     "criteria": {
       "has_planks": "2025-06-15 04:57:56 +0000"
@@ -959,9 +995,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-15 05:17:28 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/spruce_galley": {
     "criteria": {
       "in_water": "2025-06-15 04:37:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2025-06-15 05:15:37 +0000"
     },
     "done": true
   },
@@ -974,6 +1022,18 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2025-06-15 04:49:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_cabinetry": {
+    "criteria": {
+      "has_jungle_planks": "2025-06-15 05:17:28 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-06-15 05:15:37 +0000"
     },
     "done": true
   },
@@ -992,6 +1052,12 @@
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-06-15 04:57:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_desk": {
+    "criteria": {
+      "has_jungle_planks": "2025-06-15 05:17:28 +0000"
     },
     "done": true
   },
@@ -1091,6 +1157,36 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/jungle_crate": {
+    "criteria": {
+      "has_jungle_planks": "2025-06-15 05:17:28 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_jungle": {
+    "criteria": {
+      "has_the_recipe": "2025-06-15 05:17:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_storage_cabinet": {
+    "criteria": {
+      "has_jungle_planks": "2025-06-15 05:17:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-15 05:17:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-06-15 05:15:40 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/jungle_kitchen_drawer": {
     "criteria": {
       "has_log": "2025-06-15 05:08:25 +0000"
@@ -1100,6 +1196,18 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-06-15 04:49:32 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_light_ceiling_fan": {
+    "criteria": {
+      "has_jungle_planks": "2025-06-15 05:17:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-06-15 05:17:28 +0000"
     },
     "done": true
   },
@@ -1118,6 +1226,12 @@
   "cfm:recipes/decorations/stripped_jungle_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-06-15 05:08:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-06-15 05:17:28 +0000"
     },
     "done": true
   },
@@ -1190,6 +1304,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-06-15 04:42:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-06-15 05:17:28 +0000"
     },
     "done": true
   },
@@ -1295,6 +1415,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/jungle_table": {
+    "criteria": {
+      "has_jungle_planks": "2025-06-15 05:17:28 +0000"
+    },
+    "done": true
+  },
   "aquamirae:adventure/root": {
     "criteria": {
       "crafting_table": "2025-06-15 04:30:45 +0000"
@@ -1328,6 +1454,12 @@
   "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
     "criteria": {
       "has_bread": "2025-06-15 04:46:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-06-15 05:17:28 +0000"
     },
     "done": true
   },
@@ -1457,6 +1589,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_grill_cooking": {
+    "criteria": {
+      "has_chicken": "2025-06-15 05:15:40 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_cabinetry": {
     "criteria": {
       "has_spruce_planks": "2025-06-15 04:57:56 +0000"
@@ -1499,6 +1637,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-06-15 05:15:40 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/television_remote": {
     "criteria": {
       "has_copper_ingot": "2025-06-15 05:04:45 +0000"
@@ -1529,6 +1673,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_04": "2025-06-15 05:13:56 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/computer": {
     "criteria": {
       "has_copper_ingot": "2025-06-15 05:04:45 +0000"
@@ -1550,6 +1700,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_blue_cooler": {
     "criteria": {
       "has_planks": "2025-06-15 04:57:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-06-15 05:15:37 +0000"
     },
     "done": true
   },
@@ -1655,6 +1811,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/sign_post_jungle": {
+    "criteria": {
+      "has_item": "2025-06-15 05:17:28 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/oak_cog": {
     "criteria": {
       "in_water": "2025-06-15 04:37:08 +0000"
@@ -1670,6 +1832,12 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_bath": {
     "criteria": {
       "has_copper_ingot": "2025-06-15 05:04:45 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2025-06-15 05:17:28 +0000"
     },
     "done": true
   },
@@ -1715,6 +1883,12 @@
     },
     "done": true
   },
+  "friendsandfoes:adventure/summon_copper_golem": {
+    "criteria": {
+      "summoned_golem": "2025-06-15 05:18:39 +0000"
+    },
+    "done": true
+  },
   "scalinghealth:recipes/combat/bandages": {
     "criteria": {
       "cobblestone": "2025-06-15 04:38:58 +0000"
@@ -1730,6 +1904,12 @@
   "refurbished_furniture:recipes/misc/constructing/green_cooler": {
     "criteria": {
       "has_planks": "2025-06-15 04:57:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-06-15 05:17:28 +0000"
     },
     "done": true
   },
@@ -1778,6 +1958,12 @@
   "refurbished_furniture:recipes/misc/constructing/blue_sofa": {
     "criteria": {
       "has_planks": "2025-06-15 04:57:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_chair": {
+    "criteria": {
+      "has_jungle_planks": "2025-06-15 05:17:28 +0000"
     },
     "done": true
   },
@@ -1847,6 +2033,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-15 05:17:28 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/jungle_upgraded_fence": {
     "criteria": {
       "has_log": "2025-06-15 05:08:25 +0000"
@@ -1907,6 +2099,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/jungle_drawer": {
+    "criteria": {
+      "has_jungle_planks": "2025-06-15 05:17:28 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_jungle_desk": {
     "criteria": {
       "has_planks": "2025-06-15 05:08:25 +0000"
@@ -1922,6 +2120,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-06-15 04:49:32 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_mail_box": {
+    "criteria": {
+      "has_jungle_planks": "2025-06-15 05:17:28 +0000"
     },
     "done": true
   },
@@ -2207,6 +2411,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-15 05:17:28 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_kitchen_drawer": {
     "criteria": {
       "has_log": "2025-06-15 04:49:32 +0000"
@@ -2282,6 +2492,12 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-06-15 05:04:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_jungle_planks": "2025-06-15 05:17:28 +0000"
     },
     "done": true
   },

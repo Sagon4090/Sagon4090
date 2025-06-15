@@ -100,6 +100,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-15 05:18:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-06-15 04:27:47 +0000"
@@ -166,6 +172,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-06-15 05:15:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-06-15 04:40:08 +0000"
@@ -175,6 +187,12 @@
   "smallships:recipes/transportation/spruce_cog": {
     "criteria": {
       "in_water": "2025-06-15 04:36:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
+    "criteria": {
+      "has_potato": "2025-06-15 05:17:51 +0000"
     },
     "done": true
   },
@@ -253,6 +271,12 @@
   "refurbished_furniture:recipes/misc/dark_electricity_generator": {
     "criteria": {
       "has_iron_ingot": "2025-06-15 04:59:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-15 05:21:03 +0000"
     },
     "done": true
   },
@@ -337,6 +361,12 @@
   "supplementaries:recipes/flags/flag_magenta": {
     "criteria": {
       "has_stick": "2025-06-15 04:27:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-15 05:21:03 +0000"
     },
     "done": true
   },
@@ -451,6 +481,12 @@
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "rice": "2025-06-15 04:46:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-15 05:15:30 +0000"
     },
     "done": true
   },
@@ -592,6 +628,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-15 05:21:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:zombie": "2025-06-15 04:29:38 +0000"
@@ -634,6 +676,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-15 05:21:03 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-06-15 04:59:04 +0000"
@@ -670,9 +718,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/cog_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-15 05:21:03 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cyan_grill": {
     "criteria": {
       "has_iron_ingot": "2025-06-15 04:59:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2025-06-15 05:17:51 +0000"
     },
     "done": true
   },
@@ -778,6 +838,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-15 05:17:51 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_stove": {
     "criteria": {
       "has_iron_ingot": "2025-06-15 04:59:04 +0000"
@@ -856,6 +922,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/wrench": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-15 05:21:03 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_toilet": {
     "criteria": {
       "has_iron_ingot": "2025-06-15 04:59:04 +0000"
@@ -865,6 +937,12 @@
   "refurbished_furniture:recipes/misc/constructing/purple_cooler": {
     "criteria": {
       "has_planks": "2025-06-15 04:28:02 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-06-15 05:13:57 +0000"
     },
     "done": true
   },
@@ -922,6 +1000,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2025-06-15 05:15:30 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/blue_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-06-15 04:59:04 +0000"
@@ -940,9 +1024,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-06-15 05:15:30 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/birch_cog": {
     "criteria": {
       "in_water": "2025-06-15 04:36:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-15 05:21:03 +0000"
     },
     "done": true
   },
@@ -1039,6 +1135,12 @@
   "refurbished_furniture:recipes/misc/constructing/purple_grill": {
     "criteria": {
       "has_iron_ingot": "2025-06-15 04:59:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-15 05:21:03 +0000"
     },
     "done": true
   },
@@ -1192,6 +1294,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-06-15 05:15:30 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_red": {
     "criteria": {
       "has_iron_ingot": "2025-06-15 04:59:04 +0000"
@@ -1228,6 +1336,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/heating/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2025-06-15 05:17:51 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/white_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-06-15 04:59:04 +0000"
@@ -1255,6 +1369,12 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-06-15 04:59:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-15 05:21:03 +0000"
     },
     "done": true
   },
@@ -1465,6 +1585,24 @@
   "refurbished_furniture:recipes/misc/constructing/cyan_stool": {
     "criteria": {
       "has_planks": "2025-06-15 04:28:02 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-15 05:21:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-06-15 05:14:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2025-06-15 05:13:57 +0000"
     },
     "done": true
   },
@@ -1732,6 +1870,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-15 05:21:03 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/orange_stool": {
     "criteria": {
       "has_planks": "2025-06-15 04:28:02 +0000"
@@ -1753,6 +1897,18 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_bath": {
     "criteria": {
       "has_iron_ingot": "2025-06-15 04:59:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-06-15 05:17:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_grill_cooking": {
+    "criteria": {
+      "has_chicken": "2025-06-15 05:15:30 +0000"
     },
     "done": true
   },
@@ -1801,6 +1957,18 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-06-15 04:39:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-06-15 05:15:30 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/television_remote": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-15 05:21:03 +0000"
     },
     "done": true
   },
@@ -1864,6 +2032,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/flower_box": {
+    "criteria": {
+      "has_dirt": "2025-06-15 05:18:10 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
     "criteria": {
       "has_bone": "2025-06-15 05:06:33 +0000"
@@ -1894,6 +2068,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_04": "2025-06-15 05:13:54 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/computer": {
     "criteria": {
       "has_iron_ingot": "2025-06-15 04:59:04 +0000"
@@ -1906,9 +2086,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-06-15 05:17:51 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2025-06-15 04:59:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2025-06-15 05:13:57 +0000"
     },
     "done": true
   },
@@ -1951,6 +2143,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_blue_cooler": {
     "criteria": {
       "has_planks": "2025-06-15 04:28:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-06-15 05:15:30 +0000"
     },
     "done": true
   },
@@ -2164,6 +2362,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-06-15 05:13:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-06-15 05:06:33 +0000"
@@ -2230,9 +2434,21 @@
     },
     "done": true
   },
+  "friendsandfoes:adventure/summon_copper_golem": {
+    "criteria": {
+      "summoned_golem": "2025-06-15 05:18:39 +0000"
+    },
+    "done": true
+  },
   "scalinghealth:recipes/combat/bandages": {
     "criteria": {
       "cobblestone": "2025-06-15 04:39:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-15 05:21:03 +0000"
     },
     "done": true
   },
@@ -2269,6 +2485,12 @@
   "cfm:recipes/decorations/spruce_crate": {
     "criteria": {
       "has_log": "2025-06-15 04:27:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-15 05:18:55 +0000"
     },
     "done": true
   },
@@ -2329,6 +2551,12 @@
   "refurbished_furniture:recipes/misc/constructing/doorbell": {
     "criteria": {
       "has_iron_ingot": "2025-06-15 04:59:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-15 05:18:55 +0000"
     },
     "done": true
   },
@@ -2476,6 +2704,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-15 05:21:03 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_blue": {
     "criteria": {
       "has_stick": "2025-06-15 04:27:47 +0000"
@@ -2545,6 +2779,12 @@
   "refurbished_furniture:recipes/misc/constructing/brown_grill": {
     "criteria": {
       "has_iron_ingot": "2025-06-15 04:59:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
+    "criteria": {
+      "has_cobweb": "2025-06-15 05:14:22 +0000"
     },
     "done": true
   },
@@ -2632,6 +2872,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/altimeter": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-15 05:21:03 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/dark_oak_drakkar": {
     "criteria": {
       "in_water": "2025-06-15 04:36:44 +0000"
@@ -2647,6 +2893,12 @@
   "refurbished_furniture:recipes/misc/constructing/purple_sofa": {
     "criteria": {
       "has_planks": "2025-06-15 04:28:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-15 05:17:51 +0000"
     },
     "done": true
   },
@@ -2710,6 +2962,12 @@
     },
     "done": true
   },
+  "friendsandfoes:recipes/redstone/copper_button": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-15 05:21:03 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/birch_brigg": {
     "criteria": {
       "in_water": "2025-06-15 04:36:44 +0000"
@@ -2719,6 +2977,12 @@
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-06-15 04:27:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-06-15 05:17:51 +0000"
     },
     "done": true
   },
@@ -3076,6 +3340,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-15 05:21:03 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_birch_kitchen_counter": {
     "criteria": {
       "has_log": "2025-06-15 05:08:29 +0000"
@@ -3108,6 +3378,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chicken": "2025-06-15 05:17:03 +0000",
       "sweet_berries": "2025-06-15 04:44:43 +0000",
       "porkchop": "2025-06-15 05:12:01 +0000",
       "mutton": "2025-06-15 04:40:13 +0000",
@@ -3131,6 +3402,12 @@
   "cfm:recipes/decorations/stripped_birch_kitchen_drawer": {
     "criteria": {
       "has_log": "2025-06-15 05:08:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-06-15 05:14:11 +0000"
     },
     "done": true
   },
