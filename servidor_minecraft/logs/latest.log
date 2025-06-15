@@ -3209,3 +3209,47 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [
   "`r:SD]fFd P464~K}\\u"
 ]
+[15Jun2025 23:01:38.499] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Jun2025 23:01:38.500] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 14185
+}
+[15Jun2025 23:01:38.500] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[15Jun2025 23:01:38.500] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "!Y|K,OQ/9\"336dXT&"
+]
+[15Jun2025 23:03:23.751] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Jun2025 23:03:23.751] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 52
+}
+[15Jun2025 23:03:23.752] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[15Jun2025 23:03:23.752] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "-nP#kpX&bqR0T528*p*"
+]
+[15Jun2025 23:04:18.180] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Jun2025 23:04:18.180] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 55
+}
+[15Jun2025 23:04:18.180] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[15Jun2025 23:04:18.181] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "A8Acn79336F?"
+]
+[15Jun2025 23:04:22.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 drowned
+[15Jun2025 23:04:29.129] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevedo909 lost connection: Disconnected
+[15Jun2025 23:04:29.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 left the game
+[15Jun2025 23:04:29.130] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client kevedo909
+[15Jun2025 23:07:05.118] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Jun2025 23:07:05.119] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 15497
+}
+[15Jun2025 23:07:05.119] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[15Jun2025 23:07:05.119] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "~wxe2=u[@Mm$464L(T^$"
+]
