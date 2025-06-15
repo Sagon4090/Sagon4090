@@ -68,6 +68,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-06-15 04:21:43 +0000",
+      "minecraft:taiga": "2025-06-15 04:45:57 +0000",
+      "minecraft:river": "2025-06-15 04:45:13 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-06-15 04:45:52 +0000",
       "minecraft:meadow": "2025-06-15 04:36:34 +0000"
     },
     "done": false
@@ -75,6 +78,12 @@
   "refurbished_furniture:recipes/misc/constructing/purple_stool": {
     "criteria": {
       "has_planks": "2025-06-15 04:28:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-15 04:46:30 +0000"
     },
     "done": true
   },
@@ -186,6 +195,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_sweet_berries": {
+    "criteria": {
+      "has_sweet_berries": "2025-06-15 04:44:34 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/orange_lamp": {
     "criteria": {
       "has_planks": "2025-06-15 04:28:02 +0000"
@@ -264,6 +279,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "rice": "2025-06-15 04:46:30 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/jungle_cog": {
     "criteria": {
       "in_water": "2025-06-15 04:36:44 +0000"
@@ -282,9 +303,21 @@
     },
     "done": true
   },
+  "morevillagers:first_village": {
+    "criteria": {
+      "taiga": "2025-06-15 04:45:19 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/orange_sofa": {
     "criteria": {
       "has_planks": "2025-06-15 04:28:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-06-15 04:49:56 +0000"
     },
     "done": true
   },
@@ -303,6 +336,12 @@
   "smallships:recipes/transportation/birch_galley": {
     "criteria": {
       "in_water": "2025-06-15 04:36:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-06-15 04:46:34 +0000"
     },
     "done": true
   },
@@ -420,6 +459,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sweet_berries": "2025-06-15 04:44:57 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/constructing/brown_cooler": {
     "criteria": {
       "has_planks": "2025-06-15 04:28:02 +0000"
@@ -459,6 +504,12 @@
   "refurbished_furniture:recipes/misc/constructing/red_sofa": {
     "criteria": {
       "has_planks": "2025-06-15 04:28:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-06-15 04:50:59 +0000"
     },
     "done": true
   },
@@ -732,6 +783,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-06-15 04:44:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-06-15 04:40:08 +0000"
@@ -816,6 +873,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
+    "criteria": {
+      "has_bread": "2025-06-15 04:48:27 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_white": {
     "criteria": {
       "has_stick": "2025-06-15 04:27:47 +0000"
@@ -843,6 +906,12 @@
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-06-15 04:39:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-15 04:46:30 +0000"
     },
     "done": true
   },
@@ -972,6 +1041,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-06-15 04:49:56 +0000"
+    },
+    "done": true
+  },
   "backpacked:recipes/decorations/dark_oak_backpack_shelf": {
     "criteria": {
       "has_stick": "2025-06-15 04:27:47 +0000"
@@ -1020,9 +1095,21 @@
     },
     "done": true
   },
+  "morevillagers:all_villages": {
+    "criteria": {
+      "taiga": "2025-06-15 04:45:19 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/stripped_spruce_crate": {
     "criteria": {
       "has_planks": "2025-06-15 04:27:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-06-15 04:49:52 +0000"
     },
     "done": true
   },
@@ -1158,6 +1245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-06-15 04:50:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-06-15 04:36:44 +0000"
@@ -1170,6 +1263,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-06-15 04:46:30 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_lattice_fence": {
     "criteria": {
       "has_stick": "2025-06-15 04:27:47 +0000"
@@ -1179,6 +1278,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-06-15 04:28:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-15 04:46:30 +0000"
     },
     "done": true
   },
@@ -1578,6 +1683,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-06-15 04:46:30 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_kitchen_drawer": {
     "criteria": {
       "has_log": "2025-06-15 04:27:54 +0000"
@@ -1656,9 +1767,17 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/frying/sweet_berry_jam": {
+    "criteria": {
+      "has_ingredient": "2025-06-15 04:44:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "mutton": "2025-06-15 04:40:13 +0000"
+      "sweet_berries": "2025-06-15 04:44:43 +0000",
+      "mutton": "2025-06-15 04:40:13 +0000",
+      "bread": "2025-06-15 04:52:07 +0000"
     },
     "done": false
   },
