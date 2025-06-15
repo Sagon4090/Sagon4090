@@ -70,10 +70,23 @@
       "minecraft:old_growth_pine_taiga": "2025-06-15 04:21:43 +0000",
       "minecraft:taiga": "2025-06-15 04:45:57 +0000",
       "minecraft:river": "2025-06-15 04:45:13 +0000",
+      "minecraft:grove": "2025-06-15 05:13:07 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-06-15 04:45:52 +0000",
       "minecraft:meadow": "2025-06-15 04:36:34 +0000"
     },
     "done": false
+  },
+  "refurbished_furniture:recipes/misc/slicing/brown_dye_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-06-15 05:04:49 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_cabinet": {
+    "criteria": {
+      "has_log": "2025-06-15 05:08:29 +0000"
+    },
+    "done": true
   },
   "refurbished_furniture:recipes/misc/constructing/purple_stool": {
     "criteria": {
@@ -120,6 +133,12 @@
   "refurbished_furniture:recipes/misc/constructing/crimson_lattice_fence": {
     "criteria": {
       "has_stick": "2025-06-15 04:27:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_desk_cabinet": {
+    "criteria": {
+      "has_log": "2025-06-15 05:08:29 +0000"
     },
     "done": true
   },
@@ -357,6 +376,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "has_porkchop": "2025-06-15 05:11:54 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/orange_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-06-15 04:59:04 +0000"
@@ -390,6 +415,12 @@
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-06-15 04:27:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_table": {
+    "criteria": {
+      "has_log": "2025-06-15 05:08:29 +0000"
     },
     "done": true
   },
@@ -567,6 +598,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-06-15 05:08:29 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_bath": {
     "criteria": {
       "has_iron_ingot": "2025-06-15 04:59:04 +0000"
@@ -729,6 +766,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/birch_blinds": {
+    "criteria": {
+      "has_log": "2025-06-15 05:08:29 +0000"
+    },
+    "done": true
+  },
   "backpacked:recipes/decorations/spruce_backpack_shelf": {
     "criteria": {
       "has_stick": "2025-06-15 04:27:47 +0000"
@@ -747,6 +790,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_birch_chair": {
+    "criteria": {
+      "has_planks": "2025-06-15 05:08:29 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence": {
     "criteria": {
       "has_stick": "2025-06-15 04:27:47 +0000"
@@ -756,6 +805,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_light_ceiling_fan": {
     "criteria": {
       "has_spruce_planks": "2025-06-15 04:28:02 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_desk": {
+    "criteria": {
+      "has_log": "2025-06-15 05:08:29 +0000"
     },
     "done": true
   },
@@ -975,6 +1030,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-06-15 05:11:54 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/purple_grill": {
     "criteria": {
       "has_iron_ingot": "2025-06-15 04:59:04 +0000"
@@ -1008,6 +1069,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-06-15 04:59:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-06-15 05:08:29 +0000"
     },
     "done": true
   },
@@ -1071,6 +1138,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/birch_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-06-15 05:08:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-06-15 04:27:47 +0000"
@@ -1098,6 +1171,12 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2025-06-15 04:59:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_crate": {
+    "criteria": {
+      "has_log": "2025-06-15 05:08:29 +0000"
     },
     "done": true
   },
@@ -1203,6 +1282,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_grill_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-06-15 05:11:54 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/gray_trampoline": {
     "criteria": {
       "has_iron": "2025-06-15 04:59:04 +0000"
@@ -1263,6 +1348,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/birch_coffee_table": {
+    "criteria": {
+      "has_log": "2025-06-15 05:08:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-06-15 04:36:44 +0000"
@@ -1299,6 +1390,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_birch_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-06-15 05:08:29 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_black": {
     "criteria": {
       "has_stick": "2025-06-15 04:27:47 +0000"
@@ -1320,6 +1417,12 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2025-06-15 04:59:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-06-15 05:11:54 +0000"
     },
     "done": true
   },
@@ -1581,6 +1684,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/birch_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-06-15 05:08:29 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/timber_cross_brace": {
     "criteria": {
       "forge:rods/wooden": "2025-06-15 04:27:47 +0000"
@@ -1647,6 +1756,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/bone_blocks/bone_rod": {
+    "criteria": {
+      "has_item": "2025-06-15 05:06:33 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_cabinetry": {
     "criteria": {
       "has_spruce_planks": "2025-06-15 04:28:02 +0000"
@@ -1668,6 +1783,12 @@
   "refurbished_furniture:recipes/misc/constructing/lime_lamp": {
     "criteria": {
       "has_planks": "2025-06-15 04:28:02 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2025-06-15 05:08:29 +0000"
     },
     "done": true
   },
@@ -1743,6 +1864,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2025-06-15 05:06:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-06-15 04:59:04 +0000"
@@ -1803,6 +1930,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-15 05:11:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-06-15 04:40:08 +0000"
@@ -1845,6 +1978,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_birch_crate": {
+    "criteria": {
+      "has_planks": "2025-06-15 05:08:29 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_bath": {
     "criteria": {
       "has_iron_ingot": "2025-06-15 04:59:04 +0000"
@@ -1875,6 +2014,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/bone_blocks/bone_fence": {
+    "criteria": {
+      "has_item": "2025-06-15 05:06:33 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/red_grill": {
     "criteria": {
       "has_iron_ingot": "2025-06-15 04:59:04 +0000"
@@ -1890,6 +2035,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_white": {
     "criteria": {
       "has_iron_ingot": "2025-06-15 04:59:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-06-15 05:08:29 +0000"
     },
     "done": true
   },
@@ -1941,6 +2092,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_birch_park_bench": {
+    "criteria": {
+      "has_log": "2025-06-15 05:08:29 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/red_cooler": {
     "criteria": {
       "has_planks": "2025-06-15 04:28:02 +0000"
@@ -1965,9 +2122,27 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_birch_cabinet": {
+    "criteria": {
+      "has_log": "2025-06-15 05:08:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-06-15 05:11:54 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_basin": {
     "criteria": {
       "has_iron_ingot": "2025-06-15 04:59:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-15 05:11:54 +0000"
     },
     "done": true
   },
@@ -1986,6 +2161,12 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-06-15 04:27:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-06-15 05:06:33 +0000"
     },
     "done": true
   },
@@ -2052,6 +2233,12 @@
   "scalinghealth:recipes/combat/bandages": {
     "criteria": {
       "cobblestone": "2025-06-15 04:39:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-06-15 05:08:29 +0000"
     },
     "done": true
   },
@@ -2301,6 +2488,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_birch_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-06-15 05:08:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-06-15 04:59:04 +0000"
@@ -2337,6 +2530,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_birch_desk": {
+    "criteria": {
+      "has_planks": "2025-06-15 05:08:29 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_black": {
     "criteria": {
       "has_iron_ingot": "2025-06-15 04:59:04 +0000"
@@ -2352,6 +2551,12 @@
   "supplementaries:recipes/notice_board": {
     "criteria": {
       "minecraft:planks": "2025-06-15 04:28:02 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_chair": {
+    "criteria": {
+      "has_log": "2025-06-15 05:08:29 +0000"
     },
     "done": true
   },
@@ -2403,6 +2608,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_birch_table": {
+    "criteria": {
+      "has_planks": "2025-06-15 05:08:29 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_blue_sofa": {
     "criteria": {
       "has_planks": "2025-06-15 04:28:02 +0000"
@@ -2424,6 +2635,12 @@
   "smallships:recipes/transportation/dark_oak_drakkar": {
     "criteria": {
       "in_water": "2025-06-15 04:36:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_park_bench": {
+    "criteria": {
+      "has_log": "2025-06-15 05:08:29 +0000"
     },
     "done": true
   },
@@ -2523,9 +2740,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/birch_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-06-15 05:08:29 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_gray_stool": {
     "criteria": {
       "has_planks": "2025-06-15 04:28:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-06-15 05:06:33 +0000"
     },
     "done": true
   },
@@ -2733,6 +2962,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-06-15 05:04:49 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/rice_bag": {
     "criteria": {
       "has_rice": "2025-06-15 04:46:30 +0000"
@@ -2841,6 +3076,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_birch_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-06-15 05:08:29 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/cutting_board": {
     "criteria": {
       "has_stick": "2025-06-15 04:27:47 +0000"
@@ -2868,8 +3109,10 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "sweet_berries": "2025-06-15 04:44:43 +0000",
+      "porkchop": "2025-06-15 05:12:01 +0000",
       "mutton": "2025-06-15 04:40:13 +0000",
-      "bread": "2025-06-15 04:52:07 +0000"
+      "bread": "2025-06-15 04:52:07 +0000",
+      "rotten_flesh": "2025-06-15 05:04:52 +0000"
     },
     "done": false
   },
@@ -2882,6 +3125,12 @@
   "refurbished_furniture:recipes/misc/constructing/black_stool": {
     "criteria": {
       "has_planks": "2025-06-15 04:28:02 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2025-06-15 05:08:29 +0000"
     },
     "done": true
   },
